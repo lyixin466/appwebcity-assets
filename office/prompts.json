@@ -3,7 +3,7 @@
   "prompts": [
     {
       "id": "weekly_report",
-      "title": "写周报(远程验证)",
+      "title": "写周报",
       "category": "办公",
       "topicSlot": true,
       "topicHint": "本周工作/要点",
