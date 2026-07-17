@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "fonts": [
+    {
+      "id": "siyuan_hei",
+      "displayName": "思源黑体",
+      "language": "zh",
+      "url": "",
+      "fileName": "siyuan_hei.ttf",
+      "sizeBytes": 10559284,
+      "bundled": true
+    },
+    {
+      "id": "siyuan_song",
+      "displayName": "思源宋体",
+      "language": "zh",
+      "url": "https://lyixin466.github.io/appwebcity-assets/office/fonts/SourceHanSerifSC-Regular.otf",
+      "fileName": "SourceHanSerifSC-Regular.otf",
+      "sizeBytes": 24543332,
+      "bundled": false
+    },
+    {
+      "id": "lxgw_wenkai",
+      "displayName": "霞鹜文楷",
+      "language": "zh",
+      "url": "https://lyixin466.github.io/appwebcity-assets/office/fonts/LXGWWenKai-Regular.ttf",
+      "fileName": "LXGWWenKai-Regular.ttf",
+      "sizeBytes": 25575676,
+      "bundled": false
+    },
+    {
+      "id": "smiley_sans",
+      "displayName": "得意黑",
+      "language": "zh",
+      "url": "https://lyixin466.github.io/appwebcity-assets/office/fonts/SmileySans-Oblique.ttf",
+      "fileName": "SmileySans-Oblique.ttf",
+      "sizeBytes": 2629764,
+      "bundled": false
+    }
+  ]
+}

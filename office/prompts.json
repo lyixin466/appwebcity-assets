@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "prompts": [
+    {
+      "id": "weekly_report",
+      "title": "写周报",
+      "category": "办公",
+      "topicSlot": true,
+      "topicHint": "本周工作/要点",
+      "body": "请帮我把以下内容整理成一份条理清晰的周报,分「本周完成」「进行中」「下周计划」三部分。内容:{topic}",
+      "formatHint": "markdown_doc"
+    },
+    {
+      "id": "meeting_notes",
+      "title": "会议纪要",
+      "category": "办公",
+      "topicSlot": true,
+      "topicHint": "会议记录/要点",
+      "body": "请把以下会议记录整理成规范的会议纪要,包含「议题」「讨论结论」「待办事项(含负责人)」。记录:{topic}",
+      "formatHint": "markdown_doc"
+    },
+    {
+      "id": "todo_plan",
+      "title": "待办清单",
+      "category": "办公",
+      "topicSlot": true,
+      "topicHint": "任务/目标",
+      "body": "请把以下目标拆解成可执行的待办清单,按优先级排序,必要时分阶段。目标:{topic}",
+      "formatHint": "markdown_doc"
+    },
+    {
+      "id": "ppt_outline",
+      "title": "做 PPT 大纲",
+      "category": "办公",
+      "topicSlot": true,
+      "topicHint": "演示主题",
+      "body": "请就主题「{topic}」做一份逻辑清晰的演示文稿大纲,分若干小节,每节给 3-5 个要点。",
+      "formatHint": "markdown_outline"
+    },
+    {
+      "id": "to_table",
+      "title": "整理成表格",
+      "category": "办公",
+      "topicSlot": true,
+      "topicHint": "要整理的内容/数据",
+      "body": "请把以下内容整理成结构化表格,自动归纳出合适的列。内容:{topic}",
+      "formatHint": "markdown_table"
+    },
+    {
+      "id": "polish",
+      "title": "润色文案",
+      "category": "写作",
+      "topicSlot": true,
+      "topicHint": "原始文字",
+      "body": "请在不改变原意的前提下,把下面这段文字润色得更通顺、专业:{topic}",
+      "formatHint": "markdown_doc"
+    },
+    {
+      "id": "write_email",
+      "title": "写邮件",
+      "category": "写作",
+      "topicSlot": true,
+      "topicHint": "邮件目的/要点",
+      "body": "请帮我写一封得体的邮件,目的与要点如下:{topic}。包含称呼、正文与结尾署名占位。",
+      "formatHint": "markdown_doc"
+    },
+    {
+      "id": "expand",
+      "title": "扩写成文",
+      "category": "写作",
+      "topicSlot": true,
+      "topicHint": "要点/提纲",
+      "body": "请把下面的要点扩写成一段完整、连贯的文字:{topic}",
+      "formatHint": "markdown_doc"
+    }
+  ]
+}
