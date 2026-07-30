@@ -1,0 +1,5525 @@
+[
+  {
+    "id": "wechat",
+    "canonicalName": "WeChat",
+    "localizedNames": {
+      "en": "WeChat",
+      "zh-Hans": "微信"
+    },
+    "aliases": [
+      "wechat",
+      "WeChat",
+      "微信",
+      "weixin",
+      "wx"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL",
+      "CN",
+      "HK",
+      "SG",
+      "TW",
+      "CA",
+      "US"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.tencent.mm",
+      "CN": "com.tencent.mm",
+      "HK": "com.tencent.mm",
+      "SG": "com.tencent.mm",
+      "TW": "com.tencent.mm",
+      "CA": "com.tencent.mm",
+      "US": "com.tencent.mm"
+    },
+    "schemes": [
+      "weixin://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://weixin.qq.com/",
+    "keywords": [
+      "chat",
+      "message",
+      "social",
+      "聊天",
+      "社交",
+      "支付",
+      "payment"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "youtube",
+    "canonicalName": "YouTube",
+    "localizedNames": {
+      "en": "YouTube"
+    },
+    "aliases": [
+      "youtube",
+      "YouTube",
+      "yt"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.youtube"
+    },
+    "schemes": [
+      "youtube://"
+    ],
+    "universalLinks": [
+      "https://www.youtube.com/"
+    ],
+    "webURL": "https://www.youtube.com/",
+    "keywords": [
+      "video",
+      "watch",
+      "stream",
+      "看视频",
+      "视频",
+      "娱乐",
+      "entertainment"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "whatsapp",
+    "canonicalName": "WhatsApp",
+    "localizedNames": {
+      "en": "WhatsApp"
+    },
+    "aliases": [
+      "whatsapp",
+      "WhatsApp",
+      "wa"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.whatsapp"
+    },
+    "schemes": [
+      "whatsapp://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.whatsapp.com/",
+    "keywords": [
+      "chat",
+      "message",
+      "social",
+      "聊天",
+      "消息",
+      "通讯"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "instagram",
+    "canonicalName": "Instagram",
+    "localizedNames": {
+      "en": "Instagram"
+    },
+    "aliases": [
+      "instagram",
+      "Instagram",
+      "ig",
+      "ins"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.instagram.android"
+    },
+    "schemes": [
+      "instagram://"
+    ],
+    "universalLinks": [
+      "https://www.instagram.com/"
+    ],
+    "webURL": "https://www.instagram.com/",
+    "keywords": [
+      "photo",
+      "social",
+      "social media",
+      "图片",
+      "社交",
+      "拍照"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "google_maps",
+    "canonicalName": "Google Maps",
+    "localizedNames": {
+      "en": "Google Maps"
+    },
+    "aliases": [
+      "google_maps",
+      "Google Maps",
+      "google maps",
+      "gmaps",
+      "google地图",
+      "谷歌地图"
+    ],
+    "category": "transit",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.apps.maps"
+    },
+    "schemes": [
+      "comgooglemaps://"
+    ],
+    "universalLinks": [
+      "https://maps.google.com/"
+    ],
+    "webURL": "https://maps.google.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "打车",
+      "导航",
+      "地图",
+      "出行",
+      "路线",
+      "transit"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "uber",
+    "canonicalName": "Uber",
+    "localizedNames": {
+      "en": "Uber"
+    },
+    "aliases": [
+      "uber",
+      "Uber"
+    ],
+    "category": "transit",
+    "regions": [
+      "GLOBAL",
+      "US",
+      "CA",
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.ubercab",
+      "US": "com.ubercab",
+      "CA": "com.ubercab",
+      "GB": "com.ubercab"
+    },
+    "schemes": [
+      "uber://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.uber.com/",
+    "keywords": [
+      "ride",
+      "taxi",
+      "transport",
+      "打车",
+      "出行",
+      "叫车",
+      "乘车",
+      "transit"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "doordash",
+    "canonicalName": "DoorDash",
+    "localizedNames": {
+      "en": "DoorDash"
+    },
+    "aliases": [
+      "doordash",
+      "DoorDash",
+      "door dash"
+    ],
+    "category": "life",
+    "regions": [
+      "US",
+      "CA"
+    ],
+    "playStorePackageNames": {
+      "US": "com.dd.doordash",
+      "CA": "com.dd.doordash"
+    },
+    "schemes": [
+      "doordash://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.doordash.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "吃饭",
+      "外卖",
+      "送餐",
+      "订餐",
+      "food delivery",
+      "life"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "notion",
+    "canonicalName": "Notion",
+    "localizedNames": {
+      "en": "Notion"
+    },
+    "aliases": [
+      "notion",
+      "Notion"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "notion.id"
+    },
+    "schemes": [
+      "notion://"
+    ],
+    "universalLinks": [
+      "https://www.notion.so/"
+    ],
+    "webURL": "https://www.notion.so/",
+    "keywords": [
+      "notes",
+      "productivity",
+      "wiki",
+      "学习",
+      "笔记",
+      "工作",
+      "记录",
+      "知识库",
+      "work"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "facebook",
+    "canonicalName": "Facebook",
+    "localizedNames": {
+      "en": "Facebook"
+    },
+    "aliases": [
+      "facebook",
+      "Facebook",
+      "fb"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.facebook.katana"
+    },
+    "schemes": [
+      "fb://"
+    ],
+    "universalLinks": [
+      "https://www.facebook.com/"
+    ],
+    "webURL": "https://www.facebook.com/",
+    "keywords": [
+      "social",
+      "chat",
+      "message",
+      "聊天",
+      "社交",
+      "朋友"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "messenger",
+    "canonicalName": "Messenger",
+    "localizedNames": {
+      "en": "Messenger"
+    },
+    "aliases": [
+      "messenger",
+      "Messenger",
+      "fb messenger",
+      "fbm"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.facebook.orca"
+    },
+    "schemes": [
+      "fb-messenger://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.messenger.com/",
+    "keywords": [
+      "chat",
+      "message",
+      "social",
+      "聊天",
+      "消息",
+      "社交"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "tiktok",
+    "canonicalName": "TikTok",
+    "localizedNames": {
+      "en": "TikTok"
+    },
+    "aliases": [
+      "tiktok",
+      "TikTok",
+      "tik tok",
+      "抖音国际版"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.zhiliaoapp.musically"
+    },
+    "schemes": [
+      "snssdk1233://"
+    ],
+    "universalLinks": [
+      "https://www.tiktok.com/"
+    ],
+    "webURL": "https://www.tiktok.com/",
+    "keywords": [
+      "video",
+      "social",
+      "entertainment",
+      "视频",
+      "短视频",
+      "娱乐",
+      "social media"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "snapchat",
+    "canonicalName": "Snapchat",
+    "localizedNames": {
+      "en": "Snapchat"
+    },
+    "aliases": [
+      "snapchat",
+      "Snapchat",
+      "snap"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.snapchat.android"
+    },
+    "schemes": [
+      "snapchat://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.snapchat.com/",
+    "keywords": [
+      "photo",
+      "video",
+      "social",
+      "message",
+      "聊天",
+      "社交",
+      "图片"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "telegram",
+    "canonicalName": "Telegram",
+    "localizedNames": {
+      "en": "Telegram"
+    },
+    "aliases": [
+      "telegram",
+      "Telegram",
+      "tg",
+      "电报"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "org.telegram.messenger"
+    },
+    "schemes": [
+      "tg://"
+    ],
+    "universalLinks": [
+      "https://t.me/"
+    ],
+    "webURL": "https://telegram.org/",
+    "keywords": [
+      "chat",
+      "message",
+      "social",
+      "聊天",
+      "社交",
+      "消息",
+      "群组"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "x",
+    "canonicalName": "X",
+    "localizedNames": {
+      "en": "X"
+    },
+    "aliases": [
+      "x",
+      "X",
+      "twitter",
+      "推特",
+      "tw"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.twitter.android"
+    },
+    "schemes": [
+      "twitter://"
+    ],
+    "universalLinks": [
+      "https://x.com/"
+    ],
+    "webURL": "https://x.com/",
+    "keywords": [
+      "social",
+      "news",
+      "tweet",
+      "社交",
+      "推特",
+      "微博",
+      "消息"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "discord",
+    "canonicalName": "Discord",
+    "localizedNames": {
+      "en": "Discord"
+    },
+    "aliases": [
+      "discord",
+      "Discord",
+      "dc"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.discord"
+    },
+    "schemes": [
+      "discord://"
+    ],
+    "universalLinks": [
+      "https://discord.com/"
+    ],
+    "webURL": "https://discord.com/",
+    "keywords": [
+      "chat",
+      "gaming",
+      "community",
+      "social",
+      "聊天",
+      "社区",
+      "游戏"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "reddit",
+    "canonicalName": "Reddit",
+    "localizedNames": {
+      "en": "Reddit"
+    },
+    "aliases": [
+      "reddit",
+      "Reddit",
+      "r/"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.reddit.frontpage"
+    },
+    "schemes": [
+      "reddit://"
+    ],
+    "universalLinks": [
+      "https://www.reddit.com/"
+    ],
+    "webURL": "https://www.reddit.com/",
+    "keywords": [
+      "social",
+      "community",
+      "forum",
+      "news",
+      "社区",
+      "论坛",
+      "社交"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "linkedin",
+    "canonicalName": "LinkedIn",
+    "localizedNames": {
+      "en": "LinkedIn"
+    },
+    "aliases": [
+      "linkedin",
+      "LinkedIn",
+      "领英"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.linkedin.android"
+    },
+    "schemes": [
+      "linkedin://"
+    ],
+    "universalLinks": [
+      "https://www.linkedin.com/"
+    ],
+    "webURL": "https://www.linkedin.com/",
+    "keywords": [
+      "work",
+      "job",
+      "social",
+      "professional",
+      "工作",
+      "职场",
+      "求职",
+      "社交"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "line",
+    "canonicalName": "LINE",
+    "localizedNames": {
+      "en": "LINE"
+    },
+    "aliases": [
+      "line",
+      "LINE",
+      "ライン",
+      "连我"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL",
+      "JP",
+      "TW",
+      "TH",
+      "SG"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "jp.naver.line.android",
+      "JP": "jp.naver.line.android",
+      "TW": "jp.naver.line.android",
+      "TH": "jp.naver.line.android",
+      "SG": "jp.naver.line.android"
+    },
+    "schemes": [
+      "line://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://line.me/",
+    "keywords": [
+      "chat",
+      "message",
+      "social",
+      "聊天",
+      "社交",
+      "消息"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "netflix",
+    "canonicalName": "Netflix",
+    "localizedNames": {
+      "en": "Netflix"
+    },
+    "aliases": [
+      "netflix",
+      "Netflix"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.netflix.mediaclient"
+    },
+    "schemes": [
+      "nflx://"
+    ],
+    "universalLinks": [
+      "https://www.netflix.com/"
+    ],
+    "webURL": "https://www.netflix.com/",
+    "keywords": [
+      "video",
+      "movie",
+      "streaming",
+      "entertainment",
+      "视频",
+      "电影",
+      "娱乐",
+      "剧"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "spotify",
+    "canonicalName": "Spotify",
+    "localizedNames": {
+      "en": "Spotify"
+    },
+    "aliases": [
+      "spotify",
+      "Spotify"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.spotify.music"
+    },
+    "schemes": [
+      "spotify://"
+    ],
+    "universalLinks": [
+      "https://open.spotify.com/"
+    ],
+    "webURL": "https://www.spotify.com/",
+    "keywords": [
+      "music",
+      "podcast",
+      "streaming",
+      "entertainment",
+      "音乐",
+      "播客",
+      "娱乐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "apple_music",
+    "canonicalName": "Apple Music",
+    "localizedNames": {
+      "en": "Apple Music"
+    },
+    "aliases": [
+      "apple_music",
+      "Apple Music",
+      "apple music",
+      "music",
+      "音乐",
+      "am"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.apple.android.music"
+    },
+    "schemes": [
+      "music://"
+    ],
+    "universalLinks": [
+      "https://music.apple.com/"
+    ],
+    "webURL": "https://music.apple.com/",
+    "keywords": [
+      "music",
+      "streaming",
+      "entertainment",
+      "apple",
+      "音乐",
+      "苹果音乐",
+      "娱乐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "twitch",
+    "canonicalName": "Twitch",
+    "localizedNames": {
+      "en": "Twitch"
+    },
+    "aliases": [
+      "twitch",
+      "Twitch",
+      "tv"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "tv.twitch.android.app"
+    },
+    "schemes": [
+      "twitch://"
+    ],
+    "universalLinks": [
+      "https://www.twitch.tv/"
+    ],
+    "webURL": "https://www.twitch.tv/",
+    "keywords": [
+      "video",
+      "streaming",
+      "gaming",
+      "live",
+      "entertainment",
+      "视频",
+      "直播",
+      "游戏",
+      "娱乐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "disney_plus",
+    "canonicalName": "Disney+",
+    "localizedNames": {
+      "en": "Disney+"
+    },
+    "aliases": [
+      "disney_plus",
+      "Disney+",
+      "disney+",
+      "disney plus",
+      "disneyplus"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.disney.disneyplus"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://www.disneyplus.com/"
+    ],
+    "webURL": "https://www.disneyplus.com/",
+    "keywords": [
+      "video",
+      "movie",
+      "streaming",
+      "entertainment",
+      "disney",
+      "视频",
+      "电影",
+      "娱乐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "prime_video",
+    "canonicalName": "Prime Video",
+    "localizedNames": {
+      "en": "Prime Video"
+    },
+    "aliases": [
+      "prime_video",
+      "Prime Video",
+      "prime video",
+      "amazon prime",
+      "amazon video",
+      "primevideo"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.amazon.avod.thirdpartyclient"
+    },
+    "schemes": [
+      "aiv://"
+    ],
+    "universalLinks": [
+      "https://www.primevideo.com/"
+    ],
+    "webURL": "https://www.primevideo.com/",
+    "keywords": [
+      "video",
+      "movie",
+      "streaming",
+      "entertainment",
+      "amazon",
+      "视频",
+      "电影",
+      "娱乐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "bilibili",
+    "canonicalName": "Bilibili",
+    "localizedNames": {
+      "en": "Bilibili",
+      "zh-Hans": "哔哩哔哩"
+    },
+    "aliases": [
+      "bilibili",
+      "Bilibili",
+      "哔哩哔哩",
+      "b站",
+      "bili"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "CN": "tv.danmaku.bili",
+      "GLOBAL": "tv.danmaku.bili"
+    },
+    "schemes": [
+      "bilibili://"
+    ],
+    "universalLinks": [
+      "https://www.bilibili.com/"
+    ],
+    "webURL": "https://www.bilibili.com/",
+    "keywords": [
+      "video",
+      "anime",
+      "entertainment",
+      "streaming",
+      "视频",
+      "弹幕",
+      "动漫",
+      "娱乐",
+      "b站"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "capcut",
+    "canonicalName": "CapCut",
+    "localizedNames": {
+      "en": "CapCut"
+    },
+    "aliases": [
+      "capcut",
+      "CapCut",
+      "剪映",
+      "jianying",
+      "cap cut"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL",
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.lemon.lvoverseas",
+      "CN": "com.lemon.lvoverseas"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.capcut.com/",
+    "keywords": [
+      "video",
+      "edit",
+      "entertainment",
+      "视频",
+      "剪辑",
+      "剪映",
+      "娱乐"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "lyft",
+    "canonicalName": "Lyft",
+    "localizedNames": {
+      "en": "Lyft"
+    },
+    "aliases": [
+      "lyft",
+      "Lyft",
+      "打车"
+    ],
+    "category": "transit",
+    "regions": [
+      "US",
+      "CA"
+    ],
+    "playStorePackageNames": {
+      "US": "me.lyft.android",
+      "CA": "me.lyft.android"
+    },
+    "schemes": [
+      "lyft://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.lyft.com/",
+    "keywords": [
+      "ride",
+      "taxi",
+      "transit",
+      "travel",
+      "打车",
+      "出行",
+      "叫车"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "waze",
+    "canonicalName": "Waze",
+    "localizedNames": {
+      "en": "Waze"
+    },
+    "aliases": [
+      "waze",
+      "Waze",
+      "navigation",
+      "导航"
+    ],
+    "category": "transit",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.waze"
+    },
+    "schemes": [
+      "waze://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.waze.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "transit",
+      "travel",
+      "地图",
+      "导航",
+      "出行",
+      "打车"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "bolt",
+    "canonicalName": "Bolt",
+    "localizedNames": {
+      "en": "Bolt"
+    },
+    "aliases": [
+      "bolt",
+      "Bolt",
+      "taxi",
+      "ride"
+    ],
+    "category": "transit",
+    "regions": [
+      "GLOBAL",
+      "GB",
+      "DE",
+      "FR",
+      "NG",
+      "ZA"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "ee.mtakso.client",
+      "GB": "ee.mtakso.client",
+      "DE": "ee.mtakso.client",
+      "FR": "ee.mtakso.client",
+      "NG": "ee.mtakso.client",
+      "ZA": "ee.mtakso.client"
+    },
+    "schemes": [
+      "taxify://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://bolt.eu/",
+    "keywords": [
+      "ride",
+      "taxi",
+      "transit",
+      "travel",
+      "打车",
+      "出行",
+      "叫车"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "grab",
+    "canonicalName": "Grab",
+    "localizedNames": {
+      "en": "Grab"
+    },
+    "aliases": [
+      "grab",
+      "Grab",
+      "打车",
+      "东南亚打车"
+    ],
+    "category": "transit",
+    "regions": [
+      "SG",
+      "MY",
+      "TH",
+      "ID",
+      "PH",
+      "VN"
+    ],
+    "playStorePackageNames": {
+      "SG": "com.grabtaxi.passenger",
+      "MY": "com.grabtaxi.passenger",
+      "TH": "com.grabtaxi.passenger",
+      "ID": "com.grabtaxi.passenger",
+      "PH": "com.grabtaxi.passenger",
+      "VN": "com.grabtaxi.passenger"
+    },
+    "schemes": [
+      "grab://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.grab.com/",
+    "keywords": [
+      "ride",
+      "taxi",
+      "transit",
+      "travel",
+      "map",
+      "打车",
+      "出行",
+      "东南亚"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "amazon",
+    "canonicalName": "Amazon",
+    "localizedNames": {
+      "en": "Amazon"
+    },
+    "aliases": [
+      "amazon",
+      "Amazon",
+      "亚马逊"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GLOBAL",
+      "US",
+      "CA",
+      "GB",
+      "DE",
+      "JP"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.amazon.mShop.android.shopping",
+      "US": "com.amazon.mShop.android.shopping",
+      "CA": "com.amazon.mShop.android.shopping",
+      "GB": "com.amazon.mShop.android.shopping",
+      "DE": "com.amazon.mShop.android.shopping",
+      "JP": "com.amazon.mShop.android.shopping"
+    },
+    "schemes": [
+      "com.amazon.mobile.shopping://"
+    ],
+    "universalLinks": [
+      "https://www.amazon.com/"
+    ],
+    "webURL": "https://www.amazon.com/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "delivery",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "temu",
+    "canonicalName": "Temu",
+    "localizedNames": {
+      "en": "Temu"
+    },
+    "aliases": [
+      "temu",
+      "Temu"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GLOBAL",
+      "US",
+      "CA",
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.einnovation.temu",
+      "US": "com.einnovation.temu",
+      "CA": "com.einnovation.temu",
+      "GB": "com.einnovation.temu"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://www.temu.com/"
+    ],
+    "webURL": "https://www.temu.com/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "discount",
+      "购物",
+      "买东西",
+      "商城",
+      "网购"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "shein",
+    "canonicalName": "SHEIN",
+    "localizedNames": {
+      "en": "SHEIN"
+    },
+    "aliases": [
+      "shein",
+      "SHEIN",
+      "she in"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.zzkko"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://www.shein.com/"
+    ],
+    "webURL": "https://www.shein.com/",
+    "keywords": [
+      "shopping",
+      "fashion",
+      "clothes",
+      "buy",
+      "store",
+      "购物",
+      "时尚",
+      "买东西",
+      "网购"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "ebay",
+    "canonicalName": "eBay",
+    "localizedNames": {
+      "en": "eBay"
+    },
+    "aliases": [
+      "ebay",
+      "eBay",
+      "e bay"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GLOBAL",
+      "US",
+      "CA",
+      "GB",
+      "DE",
+      "AU"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.ebay.mobile",
+      "US": "com.ebay.mobile",
+      "CA": "com.ebay.mobile",
+      "GB": "com.ebay.mobile",
+      "DE": "com.ebay.mobile",
+      "AU": "com.ebay.mobile"
+    },
+    "schemes": [
+      "ebay://"
+    ],
+    "universalLinks": [
+      "https://www.ebay.com/"
+    ],
+    "webURL": "https://www.ebay.com/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "auction",
+      "store",
+      "购物",
+      "买东西",
+      "拍卖",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "aliexpress",
+    "canonicalName": "AliExpress",
+    "localizedNames": {
+      "en": "AliExpress"
+    },
+    "aliases": [
+      "aliexpress",
+      "AliExpress",
+      "ali express",
+      "速卖通",
+      "ali"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.alibaba.aliexpresshd"
+    },
+    "schemes": [
+      "aliexpress://"
+    ],
+    "universalLinks": [
+      "https://www.aliexpress.com/"
+    ],
+    "webURL": "https://www.aliexpress.com/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "global",
+      "购物",
+      "买东西",
+      "速卖通",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "walmart",
+    "canonicalName": "Walmart",
+    "localizedNames": {
+      "en": "Walmart"
+    },
+    "aliases": [
+      "walmart",
+      "Walmart",
+      "沃尔玛",
+      "wal mart"
+    ],
+    "category": "shopping",
+    "regions": [
+      "US",
+      "CA",
+      "MX"
+    ],
+    "playStorePackageNames": {
+      "US": "com.walmart.android",
+      "CA": "com.walmart.android",
+      "MX": "com.walmart.android"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://www.walmart.com/"
+    ],
+    "webURL": "https://www.walmart.com/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "grocery",
+      "购物",
+      "买东西",
+      "超市",
+      "商店"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "uber_eats",
+    "canonicalName": "Uber Eats",
+    "localizedNames": {
+      "en": "Uber Eats"
+    },
+    "aliases": [
+      "uber_eats",
+      "Uber Eats",
+      "ubereats",
+      "uber eats",
+      "外卖"
+    ],
+    "category": "life",
+    "regions": [
+      "GLOBAL",
+      "US",
+      "CA",
+      "GB",
+      "AU"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.ubercab.eats",
+      "US": "com.ubercab.eats",
+      "CA": "com.ubercab.eats",
+      "GB": "com.ubercab.eats",
+      "AU": "com.ubercab.eats"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://www.ubereats.com/"
+    ],
+    "webURL": "https://www.ubereats.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "eat",
+      "外卖",
+      "吃饭",
+      "餐厅",
+      "送餐",
+      "订餐",
+      "life"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "yelp",
+    "canonicalName": "Yelp",
+    "localizedNames": {
+      "en": "Yelp"
+    },
+    "aliases": [
+      "yelp",
+      "Yelp",
+      "点评",
+      "餐厅"
+    ],
+    "category": "life",
+    "regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU"
+    ],
+    "playStorePackageNames": {
+      "US": "com.yelp.android",
+      "CA": "com.yelp.android",
+      "GB": "com.yelp.android",
+      "AU": "com.yelp.android"
+    },
+    "schemes": [
+      "yelp://"
+    ],
+    "universalLinks": [
+      "https://www.yelp.com/"
+    ],
+    "webURL": "https://www.yelp.com/",
+    "keywords": [
+      "food",
+      "restaurant",
+      "review",
+      "local",
+      "eat",
+      "吃饭",
+      "餐厅",
+      "点评",
+      "本地生活",
+      "life"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "meituan",
+    "canonicalName": "Meituan",
+    "localizedNames": {
+      "en": "Meituan",
+      "zh-Hans": "美团"
+    },
+    "aliases": [
+      "meituan",
+      "Meituan",
+      "美团",
+      "外卖",
+      "吃饭"
+    ],
+    "category": "life",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.sankuai.meituan"
+    },
+    "schemes": [
+      "imeituan://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.meituan.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "local",
+      "外卖",
+      "吃饭",
+      "餐厅",
+      "本地生活",
+      "订餐",
+      "life"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "gmail",
+    "canonicalName": "Gmail",
+    "localizedNames": {
+      "en": "Gmail"
+    },
+    "aliases": [
+      "gmail",
+      "Gmail",
+      "google mail",
+      "邮箱",
+      "邮件"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.gm"
+    },
+    "schemes": [
+      "googlegmail://"
+    ],
+    "universalLinks": [
+      "https://mail.google.com/"
+    ],
+    "webURL": "https://mail.google.com/",
+    "keywords": [
+      "email",
+      "mail",
+      "work",
+      "邮件",
+      "邮箱",
+      "工作",
+      "谷歌"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "google_calendar",
+    "canonicalName": "Google Calendar",
+    "localizedNames": {
+      "en": "Google Calendar"
+    },
+    "aliases": [
+      "google_calendar",
+      "Google Calendar",
+      "google calendar",
+      "calendar",
+      "日历",
+      "谷歌日历"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.calendar"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://calendar.google.com/"
+    ],
+    "webURL": "https://calendar.google.com/",
+    "keywords": [
+      "calendar",
+      "schedule",
+      "work",
+      "meeting",
+      "日历",
+      "日程",
+      "工作",
+      "会议"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "google_drive",
+    "canonicalName": "Google Drive",
+    "localizedNames": {
+      "en": "Google Drive"
+    },
+    "aliases": [
+      "google_drive",
+      "Google Drive",
+      "google drive",
+      "drive",
+      "云盘",
+      "网盘",
+      "谷歌云盘"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.apps.docs"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://drive.google.com/"
+    ],
+    "webURL": "https://drive.google.com/",
+    "keywords": [
+      "cloud",
+      "drive",
+      "file",
+      "storage",
+      "work",
+      "云盘",
+      "网盘",
+      "文件",
+      "工作",
+      "存储"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "google_docs",
+    "canonicalName": "Google Docs",
+    "localizedNames": {
+      "en": "Google Docs"
+    },
+    "aliases": [
+      "google_docs",
+      "Google Docs",
+      "google docs",
+      "docs",
+      "文档",
+      "谷歌文档"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.apps.docs.editors.docs"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://docs.google.com/"
+    ],
+    "webURL": "https://docs.google.com/",
+    "keywords": [
+      "docs",
+      "document",
+      "write",
+      "work",
+      "study",
+      "文档",
+      "写作",
+      "工作",
+      "学习"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "microsoft_teams",
+    "canonicalName": "Microsoft Teams",
+    "localizedNames": {
+      "en": "Microsoft Teams"
+    },
+    "aliases": [
+      "microsoft_teams",
+      "Microsoft Teams",
+      "microsoft teams",
+      "teams",
+      "ms teams",
+      "会议",
+      "团队"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.microsoft.teams"
+    },
+    "schemes": [
+      "msteams://"
+    ],
+    "universalLinks": [
+      "https://teams.microsoft.com/"
+    ],
+    "webURL": "https://www.microsoft.com/microsoft-teams/",
+    "keywords": [
+      "work",
+      "meeting",
+      "team",
+      "chat",
+      "会议",
+      "工作",
+      "团队",
+      "沟通"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "slack",
+    "canonicalName": "Slack",
+    "localizedNames": {
+      "en": "Slack"
+    },
+    "aliases": [
+      "slack",
+      "Slack",
+      "工作聊天",
+      "团队沟通"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.Slack"
+    },
+    "schemes": [
+      "slack://"
+    ],
+    "universalLinks": [
+      "https://slack.com/"
+    ],
+    "webURL": "https://slack.com/",
+    "keywords": [
+      "work",
+      "chat",
+      "team",
+      "message",
+      "meeting",
+      "工作",
+      "聊天",
+      "团队",
+      "沟通"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "zoom",
+    "canonicalName": "Zoom",
+    "localizedNames": {
+      "en": "Zoom"
+    },
+    "aliases": [
+      "zoom",
+      "Zoom",
+      "视频会议",
+      "会议"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "us.zoom.videomeetings"
+    },
+    "schemes": [
+      "zoomus://"
+    ],
+    "universalLinks": [
+      "https://zoom.us/"
+    ],
+    "webURL": "https://zoom.us/",
+    "keywords": [
+      "work",
+      "meeting",
+      "video",
+      "call",
+      "conference",
+      "工作",
+      "会议",
+      "视频会议",
+      "视频通话"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "duolingo",
+    "canonicalName": "Duolingo",
+    "localizedNames": {
+      "en": "Duolingo"
+    },
+    "aliases": [
+      "duolingo",
+      "Duolingo",
+      "多邻国",
+      "学习英语",
+      "语言学习"
+    ],
+    "category": "learning",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.duolingo"
+    },
+    "schemes": [
+      "duolingo://"
+    ],
+    "universalLinks": [
+      "https://www.duolingo.com/"
+    ],
+    "webURL": "https://www.duolingo.com/",
+    "keywords": [
+      "study",
+      "learn",
+      "language",
+      "education",
+      "learning",
+      "学习",
+      "语言",
+      "英语",
+      "外语",
+      "教育"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "dropbox",
+    "canonicalName": "Dropbox",
+    "localizedNames": {
+      "en": "Dropbox"
+    },
+    "aliases": [
+      "dropbox",
+      "Dropbox",
+      "网盘",
+      "云盘",
+      "文件"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.dropbox.android"
+    },
+    "schemes": [
+      "dbapi-2://"
+    ],
+    "universalLinks": [
+      "https://www.dropbox.com/"
+    ],
+    "webURL": "https://www.dropbox.com/",
+    "keywords": [
+      "cloud",
+      "file",
+      "storage",
+      "backup",
+      "sync",
+      "云盘",
+      "网盘",
+      "文件",
+      "备份",
+      "同步",
+      "tools"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "canva",
+    "canonicalName": "Canva",
+    "localizedNames": {
+      "en": "Canva"
+    },
+    "aliases": [
+      "canva",
+      "Canva",
+      "设计",
+      "海报",
+      "design"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.canva.editor"
+    },
+    "schemes": [],
+    "universalLinks": [
+      "https://www.canva.com/"
+    ],
+    "webURL": "https://www.canva.com/",
+    "keywords": [
+      "design",
+      "graphic",
+      "poster",
+      "create",
+      "study",
+      "设计",
+      "海报",
+      "图片",
+      "创作",
+      "学习",
+      "tools"
+    ],
+    "launchStatus": "webOnly",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "paypal",
+    "canonicalName": "PayPal",
+    "localizedNames": {
+      "en": "PayPal"
+    },
+    "aliases": [
+      "paypal",
+      "PayPal",
+      "pay pal",
+      "支付"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.paypal.android.p2pmobile"
+    },
+    "schemes": [
+      "paypal://"
+    ],
+    "universalLinks": [
+      "https://www.paypal.com/"
+    ],
+    "webURL": "https://www.paypal.com/",
+    "keywords": [
+      "payment",
+      "pay",
+      "money",
+      "transfer",
+      "wallet",
+      "支付",
+      "付款",
+      "转账",
+      "钱包",
+      "shopping"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "cash_app",
+    "canonicalName": "Cash App",
+    "localizedNames": {
+      "en": "Cash App"
+    },
+    "aliases": [
+      "cash_app",
+      "Cash App",
+      "cash app",
+      "cashapp",
+      "支付",
+      "转账"
+    ],
+    "category": "shopping",
+    "regions": [
+      "US",
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "US": "com.squareup.cash",
+      "GB": "com.squareup.cash"
+    },
+    "schemes": [
+      "squarecash://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://cash.app/",
+    "keywords": [
+      "payment",
+      "pay",
+      "money",
+      "transfer",
+      "支付",
+      "付款",
+      "转账",
+      "钱包",
+      "shopping"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "venmo",
+    "canonicalName": "Venmo",
+    "localizedNames": {
+      "en": "Venmo"
+    },
+    "aliases": [
+      "venmo",
+      "Venmo",
+      "支付",
+      "转账"
+    ],
+    "category": "shopping",
+    "regions": [
+      "US"
+    ],
+    "playStorePackageNames": {
+      "US": "com.venmo"
+    },
+    "schemes": [
+      "venmo://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://venmo.com/",
+    "keywords": [
+      "payment",
+      "pay",
+      "money",
+      "transfer",
+      "支付",
+      "付款",
+      "转账",
+      "钱包",
+      "shopping"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "alipay",
+    "canonicalName": "Alipay",
+    "localizedNames": {
+      "en": "Alipay",
+      "zh-Hans": "支付宝"
+    },
+    "aliases": [
+      "alipay",
+      "Alipay",
+      "支付宝",
+      "zhifubao",
+      "支付"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GLOBAL",
+      "CN",
+      "HK",
+      "SG"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.eg.android.AlipayGphone",
+      "CN": "com.eg.android.AlipayGphone",
+      "HK": "com.eg.android.AlipayGphone",
+      "SG": "com.eg.android.AlipayGphone"
+    },
+    "schemes": [
+      "alipay://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.alipay.com/",
+    "keywords": [
+      "payment",
+      "pay",
+      "money",
+      "wallet",
+      "支付",
+      "付款",
+      "支付宝",
+      "钱包",
+      "金融",
+      "shopping"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "paytm",
+    "canonicalName": "Paytm",
+    "localizedNames": {
+      "en": "Paytm"
+    },
+    "aliases": [
+      "paytm",
+      "Paytm",
+      "支付",
+      "india payment"
+    ],
+    "category": "shopping",
+    "regions": [
+      "IN"
+    ],
+    "playStorePackageNames": {
+      "IN": "net.one97.paytm"
+    },
+    "schemes": [
+      "paytm://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://paytm.com/",
+    "keywords": [
+      "payment",
+      "pay",
+      "money",
+      "wallet",
+      "india",
+      "支付",
+      "付款",
+      "钱包",
+      "金融",
+      "shopping"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "xiaohongshu",
+    "canonicalName": "Xiaohongshu",
+    "localizedNames": {
+      "en": "Xiaohongshu",
+      "zh-Hans": "小红书"
+    },
+    "aliases": [
+      "xiaohongshu",
+      "Xiaohongshu",
+      "小红书",
+      "rednote",
+      "red note",
+      "xhs"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL",
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.xingin.xhs",
+      "CN": "com.xingin.xhs"
+    },
+    "schemes": [
+      "xhsdiscover://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.xiaohongshu.com/",
+    "keywords": [
+      "social",
+      "photo",
+      "lifestyle",
+      "community",
+      "小红书",
+      "社交",
+      "种草",
+      "生活",
+      "笔记"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "kakaotalk",
+    "canonicalName": "KakaoTalk",
+    "localizedNames": {
+      "en": "KakaoTalk"
+    },
+    "aliases": [
+      "kakaotalk",
+      "KakaoTalk",
+      "kakao",
+      "kakao talk"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL",
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.kakao.talk",
+      "KR": "com.kakao.talk"
+    },
+    "schemes": [
+      "kakaolink://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.kakaocorp.com/service/KakaoTalk",
+    "keywords": [
+      "chat",
+      "message",
+      "social",
+      "korea",
+      "聊天",
+      "社交",
+      "消息"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "amap",
+    "canonicalName": "Amap",
+    "localizedNames": {
+      "en": "Amap",
+      "zh-Hans": "高德地图"
+    },
+    "aliases": [
+      "高德",
+      "高德地图",
+      "amap",
+      "gaode",
+      "autonavi",
+      "高德导航"
+    ],
+    "category": "transit",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.autonavi.minimap",
+      "GLOBAL": "com.autonavi.minimap"
+    },
+    "schemes": [
+      "androidamap://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://mobile.amap.com/",
+    "keywords": [
+      "地图",
+      "导航",
+      "map",
+      "navigation",
+      "打车",
+      "出行",
+      "路线",
+      "daohang",
+      "ditu"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "baidu_maps",
+    "canonicalName": "Baidu Maps",
+    "localizedNames": {
+      "en": "Baidu Maps",
+      "zh-Hans": "百度地图"
+    },
+    "aliases": [
+      "百度地图",
+      "baidumap",
+      "baidu maps",
+      "baiduditu",
+      "百度导航"
+    ],
+    "category": "transit",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.baidu.BaiduMap",
+      "GLOBAL": "com.baidu.BaiduMap"
+    },
+    "schemes": [
+      "baidumap://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://map.baidu.com/",
+    "keywords": [
+      "地图",
+      "导航",
+      "map",
+      "navigation",
+      "出行",
+      "路线",
+      "ditu"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "taobao",
+    "canonicalName": "Taobao",
+    "localizedNames": {
+      "en": "Taobao",
+      "zh-Hans": "淘宝"
+    },
+    "aliases": [
+      "淘宝",
+      "taobao",
+      "手机淘宝",
+      "tb",
+      "淘寶"
+    ],
+    "category": "shopping",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.taobao.taobao",
+      "GLOBAL": "com.taobao.taobao"
+    },
+    "schemes": [
+      "taobao://"
+    ],
+    "universalLinks": [],
+    "webURL": "https://www.taobao.com/",
+    "keywords": [
+      "购物",
+      "shopping",
+      "电商",
+      "网购",
+      "gouwu"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "tmall",
+    "canonicalName": "Tmall",
+    "localizedNames": {
+      "en": "Tmall",
+      "zh-Hans": "天猫"
+    },
+    "aliases": [
+      "天猫",
+      "tmall",
+      "tianmao",
+      "猫超"
+    ],
+    "category": "shopping",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tmall.wireless",
+      "GLOBAL": "com.tmall.wireless"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.tmall.com/",
+    "keywords": [
+      "购物",
+      "shopping",
+      "电商",
+      "网购",
+      "品牌"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "jd",
+    "canonicalName": "JD.com",
+    "localizedNames": {
+      "en": "JD.com",
+      "zh-Hans": "京东"
+    },
+    "aliases": [
+      "京东",
+      "jd",
+      "jingdong",
+      "京东商城"
+    ],
+    "category": "shopping",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.jingdong.app.mall",
+      "GLOBAL": "com.jingdong.app.mall"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.jd.com/",
+    "keywords": [
+      "购物",
+      "shopping",
+      "电商",
+      "网购",
+      "家电",
+      "gouwu"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "pinduoduo",
+    "canonicalName": "Pinduoduo",
+    "localizedNames": {
+      "en": "Pinduoduo",
+      "zh-Hans": "拼多多"
+    },
+    "aliases": [
+      "拼多多",
+      "pinduoduo",
+      "pdd",
+      "多多"
+    ],
+    "category": "shopping",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.xunmeng.pinduoduo",
+      "GLOBAL": "com.xunmeng.pinduoduo"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.pinduoduo.com/",
+    "keywords": [
+      "购物",
+      "shopping",
+      "电商",
+      "团购",
+      "便宜"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "qq",
+    "canonicalName": "QQ",
+    "localizedNames": {
+      "en": "QQ",
+      "zh-Hans": "QQ"
+    },
+    "aliases": [
+      "qq",
+      "腾讯qq",
+      "tencent qq",
+      "扣扣"
+    ],
+    "category": "social",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tencent.mobileqq",
+      "GLOBAL": "com.tencent.mobileqq"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://im.qq.com/",
+    "keywords": [
+      "聊天",
+      "社交",
+      "chat",
+      "social",
+      "message",
+      "消息"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "weibo",
+    "canonicalName": "Weibo",
+    "localizedNames": {
+      "en": "Weibo",
+      "zh-Hans": "微博"
+    },
+    "aliases": [
+      "微博",
+      "新浪微博",
+      "weibo",
+      "sina weibo",
+      "xinlangweibo"
+    ],
+    "category": "social",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.sina.weibo",
+      "GLOBAL": "com.sina.weibo"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://weibo.com/",
+    "keywords": [
+      "社交",
+      "social",
+      "资讯",
+      "热搜",
+      "新闻",
+      "news"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "netease_music",
+    "canonicalName": "NetEase Cloud Music",
+    "localizedNames": {
+      "en": "NetEase Cloud Music",
+      "zh-Hans": "网易云音乐"
+    },
+    "aliases": [
+      "网易云",
+      "网易云音乐",
+      "netease music",
+      "wangyiyun",
+      "cloudmusic"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.netease.cloudmusic",
+      "GLOBAL": "com.netease.cloudmusic"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://music.163.com/",
+    "keywords": [
+      "音乐",
+      "music",
+      "听歌",
+      "歌单",
+      "yinyue"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "qq_music",
+    "canonicalName": "QQ Music",
+    "localizedNames": {
+      "en": "QQ Music",
+      "zh-Hans": "QQ音乐"
+    },
+    "aliases": [
+      "qq音乐",
+      "qq music",
+      "qqmusic",
+      "qqyinyue"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tencent.qqmusic",
+      "GLOBAL": "com.tencent.qqmusic"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://y.qq.com/",
+    "keywords": [
+      "音乐",
+      "music",
+      "听歌",
+      "歌单",
+      "yinyue"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "zhihu",
+    "canonicalName": "Zhihu",
+    "localizedNames": {
+      "en": "Zhihu",
+      "zh-Hans": "知乎"
+    },
+    "aliases": [
+      "知乎",
+      "zhihu",
+      "zh"
+    ],
+    "category": "social",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.zhihu.android",
+      "GLOBAL": "com.zhihu.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.zhihu.com/",
+    "keywords": [
+      "问答",
+      "社区",
+      "social",
+      "知识",
+      "阅读",
+      "wenda"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "dianping",
+    "canonicalName": "Dianping",
+    "localizedNames": {
+      "en": "Dianping",
+      "zh-Hans": "大众点评"
+    },
+    "aliases": [
+      "大众点评",
+      "点评",
+      "dianping",
+      "dazhongdianping"
+    ],
+    "category": "life",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.dianping.v1",
+      "GLOBAL": "com.dianping.v1"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.dianping.com/",
+    "keywords": [
+      "美食",
+      "点评",
+      "团购",
+      "生活",
+      "餐厅",
+      "meishi"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "eleme",
+    "canonicalName": "Ele.me",
+    "localizedNames": {
+      "en": "Ele.me",
+      "zh-Hans": "饿了么"
+    },
+    "aliases": [
+      "饿了么",
+      "eleme",
+      "elm",
+      "饿了吗"
+    ],
+    "category": "life",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "me.ele",
+      "GLOBAL": "me.ele"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.ele.me/",
+    "keywords": [
+      "外卖",
+      "美食",
+      "waimai",
+      "food",
+      "delivery",
+      "点餐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "didi",
+    "canonicalName": "DiDi",
+    "localizedNames": {
+      "en": "DiDi",
+      "zh-Hans": "滴滴出行"
+    },
+    "aliases": [
+      "滴滴",
+      "滴滴出行",
+      "didi",
+      "didichuxing",
+      "打车"
+    ],
+    "category": "transit",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.sdu.didi.psnger",
+      "GLOBAL": "com.sdu.didi.psnger"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.didiglobal.com/",
+    "keywords": [
+      "打车",
+      "出行",
+      "taxi",
+      "ride",
+      "网约车",
+      "dache"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "douyin",
+    "canonicalName": "Douyin",
+    "localizedNames": {
+      "en": "Douyin",
+      "zh-Hans": "抖音"
+    },
+    "aliases": [
+      "抖音",
+      "douyin",
+      "dy"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.ss.android.ugc.aweme",
+      "GLOBAL": "com.ss.android.ugc.aweme"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.douyin.com/",
+    "keywords": [
+      "短视频",
+      "视频",
+      "video",
+      "娱乐",
+      "直播",
+      "shipin"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "kuaishou",
+    "canonicalName": "Kuaishou",
+    "localizedNames": {
+      "en": "Kuaishou",
+      "zh-Hans": "快手"
+    },
+    "aliases": [
+      "快手",
+      "kuaishou",
+      "ks"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.smile.gifmaker",
+      "GLOBAL": "com.smile.gifmaker"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.kuaishou.com/",
+    "keywords": [
+      "短视频",
+      "视频",
+      "video",
+      "娱乐",
+      "直播",
+      "shipin"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "dingtalk",
+    "canonicalName": "DingTalk",
+    "localizedNames": {
+      "en": "DingTalk",
+      "zh-Hans": "钉钉"
+    },
+    "aliases": [
+      "钉钉",
+      "dingtalk",
+      "dingding",
+      "dd"
+    ],
+    "category": "work",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.alibaba.android.rimet",
+      "GLOBAL": "com.alibaba.android.rimet"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.dingtalk.com/",
+    "keywords": [
+      "办公",
+      "协作",
+      "会议",
+      "work",
+      "meeting",
+      "打卡",
+      "bangong"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "tencent_video",
+    "canonicalName": "Tencent Video",
+    "localizedNames": {
+      "en": "Tencent Video",
+      "zh-Hans": "腾讯视频"
+    },
+    "aliases": [
+      "腾讯视频",
+      "tencent video",
+      "qqlive",
+      "txsp"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tencent.qqlive",
+      "GLOBAL": "com.tencent.qqlive"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://v.qq.com/",
+    "keywords": [
+      "视频",
+      "影视",
+      "video",
+      "电视剧",
+      "电影",
+      "shipin"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "iqiyi",
+    "canonicalName": "iQIYI",
+    "localizedNames": {
+      "en": "iQIYI",
+      "zh-Hans": "爱奇艺"
+    },
+    "aliases": [
+      "爱奇艺",
+      "iqiyi",
+      "aiqiyi",
+      "奇艺"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.qiyi.video",
+      "GLOBAL": "com.qiyi.video"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.iqiyi.com/",
+    "keywords": [
+      "视频",
+      "影视",
+      "video",
+      "电视剧",
+      "电影",
+      "shipin"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "youku",
+    "canonicalName": "Youku",
+    "localizedNames": {
+      "en": "Youku",
+      "zh-Hans": "优酷"
+    },
+    "aliases": [
+      "优酷",
+      "youku",
+      "yk"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.youku.phone",
+      "GLOBAL": "com.youku.phone"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.youku.com/",
+    "keywords": [
+      "视频",
+      "影视",
+      "video",
+      "电视剧",
+      "电影",
+      "shipin"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "baidu",
+    "canonicalName": "Baidu",
+    "localizedNames": {
+      "en": "Baidu",
+      "zh-Hans": "百度"
+    },
+    "aliases": [
+      "百度",
+      "baidu",
+      "百度搜索",
+      "baidusearch"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.baidu.searchbox",
+      "GLOBAL": "com.baidu.searchbox"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.baidu.com/",
+    "keywords": [
+      "搜索",
+      "search",
+      "浏览器",
+      "资讯",
+      "sousuo"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "ctrip",
+    "canonicalName": "Trip.com / Ctrip",
+    "localizedNames": {
+      "en": "Trip.com / Ctrip",
+      "zh-Hans": "携程旅行"
+    },
+    "aliases": [
+      "携程",
+      "携程旅行",
+      "ctrip",
+      "xiecheng",
+      "trip.com"
+    ],
+    "category": "life",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "ctrip.android.view",
+      "GLOBAL": "ctrip.android.view"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.ctrip.com/",
+    "keywords": [
+      "旅行",
+      "机票",
+      "酒店",
+      "travel",
+      "hotel",
+      "flight",
+      "订票",
+      "lvxing"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "railway12306",
+    "canonicalName": "Railway 12306",
+    "localizedNames": {
+      "en": "Railway 12306",
+      "zh-Hans": "铁路12306"
+    },
+    "aliases": [
+      "12306",
+      "铁路12306",
+      "火车票",
+      "railway",
+      "tielu"
+    ],
+    "category": "transit",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.MobileTicket",
+      "GLOBAL": "com.chinarailway.globalticketing"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.12306.cn/",
+    "keywords": [
+      "火车",
+      "高铁",
+      "车票",
+      "train",
+      "ticket",
+      "订票",
+      "huoche"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "toutiao",
+    "canonicalName": "Toutiao",
+    "localizedNames": {
+      "en": "Toutiao",
+      "zh-Hans": "今日头条"
+    },
+    "aliases": [
+      "今日头条",
+      "头条",
+      "toutiao",
+      "jinritoutiao"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.ss.android.article.news",
+      "GLOBAL": "com.ss.android.article.news"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.toutiao.com/",
+    "keywords": [
+      "新闻",
+      "资讯",
+      "news",
+      "阅读",
+      "xinwen"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "booking",
+    "canonicalName": "Booking.com",
+    "localizedNames": {
+      "en": "Booking.com",
+      "zh-Hans": "缤客"
+    },
+    "aliases": [
+      "booking",
+      "booking.com",
+      "缤客",
+      "bookingcom"
+    ],
+    "category": "life",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.booking"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.booking.com/",
+    "keywords": [
+      "酒店",
+      "住宿",
+      "旅行",
+      "hotel",
+      "travel",
+      "stay",
+      "booking"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "shazam",
+    "canonicalName": "Shazam",
+    "localizedNames": {
+      "en": "Shazam",
+      "zh-Hans": "Shazam"
+    },
+    "aliases": [
+      "shazam",
+      "听歌识曲"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.shazam.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.shazam.com/",
+    "keywords": [
+      "音乐",
+      "识曲",
+      "music",
+      "song",
+      "identify",
+      "听歌识曲"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "airbnb",
+    "canonicalName": "Airbnb",
+    "localizedNames": {
+      "en": "Airbnb",
+      "zh-Hans": "爱彼迎"
+    },
+    "aliases": [
+      "airbnb",
+      "爱彼迎",
+      "abnb"
+    ],
+    "category": "life",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.airbnb.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.airbnb.com/",
+    "keywords": [
+      "民宿",
+      "住宿",
+      "旅行",
+      "travel",
+      "stay",
+      "rental"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "threads",
+    "canonicalName": "Threads",
+    "localizedNames": {
+      "en": "Threads",
+      "zh-Hans": "Threads"
+    },
+    "aliases": [
+      "threads",
+      "线程",
+      "barcelona"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.instagram.barcelona"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.threads.net/",
+    "keywords": [
+      "社交",
+      "social",
+      "meta",
+      "instagram",
+      "微博客"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "chrome",
+    "canonicalName": "Google Chrome",
+    "localizedNames": {
+      "en": "Google Chrome",
+      "zh-Hans": "Chrome 浏览器"
+    },
+    "aliases": [
+      "chrome",
+      "google chrome",
+      "谷歌浏览器",
+      "chrome浏览器",
+      "liulanqi"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.android.chrome"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.google.com/chrome/",
+    "keywords": [
+      "浏览器",
+      "browser",
+      "google",
+      "上网",
+      "搜索",
+      "web"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "google_photos",
+    "canonicalName": "Google Photos",
+    "localizedNames": {
+      "en": "Google Photos",
+      "zh-Hans": "Google 相册"
+    },
+    "aliases": [
+      "google photos",
+      "googlephotos",
+      "谷歌相册",
+      "google相册",
+      "photos",
+      "相册"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.apps.photos"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://photos.google.com/",
+    "keywords": [
+      "照片",
+      "相册",
+      "备份",
+      "photo",
+      "gallery",
+      "backup",
+      "xiangce"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "pinterest",
+    "canonicalName": "Pinterest",
+    "localizedNames": {
+      "en": "Pinterest",
+      "zh-Hans": "Pinterest"
+    },
+    "aliases": [
+      "pinterest",
+      "pin",
+      "品趣志"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.pinterest"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.pinterest.com/",
+    "keywords": [
+      "灵感",
+      "图片",
+      "收藏",
+      "inspiration",
+      "image",
+      "design",
+      "社交"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "signal",
+    "canonicalName": "Signal",
+    "localizedNames": {
+      "en": "Signal",
+      "zh-Hans": "Signal"
+    },
+    "aliases": [
+      "signal",
+      "signal messenger",
+      "私密信使"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "org.thoughtcrime.securesms"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://signal.org/",
+    "keywords": [
+      "聊天",
+      "加密",
+      "隐私",
+      "chat",
+      "message",
+      "secure",
+      "privacy",
+      "消息"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "meituan_waimai",
+    "canonicalName": "Meituan Waimai",
+    "localizedNames": {
+      "en": "Meituan Waimai",
+      "zh-Hans": "美团外卖"
+    },
+    "aliases": [
+      "美团外卖",
+      "meituan waimai",
+      "waimai",
+      "mtwm"
+    ],
+    "category": "life",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.sankuai.meituan.takeoutnew",
+      "GLOBAL": "com.sankuai.meituan.takeoutnew"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://waimai.meituan.com/",
+    "keywords": [
+      "外卖",
+      "点餐",
+      "food",
+      "delivery",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "xianyu",
+    "canonicalName": "Xianyu",
+    "localizedNames": {
+      "en": "Xianyu",
+      "zh-Hans": "闲鱼"
+    },
+    "aliases": [
+      "闲鱼",
+      "xianyu",
+      "咸鱼",
+      "idlefish"
+    ],
+    "category": "shopping",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.taobao.idlefish",
+      "GLOBAL": "com.taobao.idlefish"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.goofish.com/",
+    "keywords": [
+      "二手",
+      "交易",
+      "闲置",
+      "shopping",
+      "转卖"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "suning",
+    "canonicalName": "Suning",
+    "localizedNames": {
+      "en": "Suning",
+      "zh-Hans": "苏宁易购"
+    },
+    "aliases": [
+      "苏宁",
+      "苏宁易购",
+      "suning"
+    ],
+    "category": "shopping",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.suning.mobile.ebuy",
+      "GLOBAL": "com.suning.mobile.ebuy"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.suning.com/",
+    "keywords": [
+      "购物",
+      "电商",
+      "家电",
+      "shopping"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "vipshop",
+    "canonicalName": "VIP.com",
+    "localizedNames": {
+      "en": "VIP.com",
+      "zh-Hans": "唯品会"
+    },
+    "aliases": [
+      "唯品会",
+      "vipshop",
+      "vip"
+    ],
+    "category": "shopping",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.achievo.vipshop",
+      "GLOBAL": "com.achievo.vipshop"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.vip.com/",
+    "keywords": [
+      "购物",
+      "特卖",
+      "服饰",
+      "shopping"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "dewu",
+    "canonicalName": "Dewu",
+    "localizedNames": {
+      "en": "Dewu",
+      "zh-Hans": "得物"
+    },
+    "aliases": [
+      "得物",
+      "dewu",
+      "毒",
+      "poizon"
+    ],
+    "category": "shopping",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.shizhuang.duapp",
+      "GLOBAL": "com.shizhuang.duapp"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.dewu.com/",
+    "keywords": [
+      "球鞋",
+      "潮流",
+      "鉴定",
+      "购物",
+      "shopping"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "qunar",
+    "canonicalName": "Qunar",
+    "localizedNames": {
+      "en": "Qunar",
+      "zh-Hans": "去哪儿旅行"
+    },
+    "aliases": [
+      "去哪儿",
+      "去哪儿旅行",
+      "qunar",
+      "qune"
+    ],
+    "category": "life",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.Qunar",
+      "GLOBAL": "com.Qunar"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.qunar.com/",
+    "keywords": [
+      "旅行",
+      "机票",
+      "酒店",
+      "travel",
+      "订票"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "fliggy",
+    "canonicalName": "Fliggy",
+    "localizedNames": {
+      "en": "Fliggy",
+      "zh-Hans": "飞猪旅行"
+    },
+    "aliases": [
+      "飞猪",
+      "飞猪旅行",
+      "fliggy",
+      "feizhu"
+    ],
+    "category": "life",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.taobao.trip",
+      "GLOBAL": "com.taobao.trip"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.fliggy.com/",
+    "keywords": [
+      "旅行",
+      "机票",
+      "酒店",
+      "travel",
+      "订票"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "elong",
+    "canonicalName": "Elong",
+    "localizedNames": {
+      "en": "Elong",
+      "zh-Hans": "艺龙旅行"
+    },
+    "aliases": [
+      "艺龙",
+      "艺龙旅行",
+      "elong"
+    ],
+    "category": "life",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.dp.android.elong",
+      "GLOBAL": "com.dp.android.elong"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.elong.com/",
+    "keywords": [
+      "旅行",
+      "酒店",
+      "travel",
+      "订票"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "tuniu",
+    "canonicalName": "Tuniu",
+    "localizedNames": {
+      "en": "Tuniu",
+      "zh-Hans": "途牛旅游"
+    },
+    "aliases": [
+      "途牛",
+      "途牛旅游",
+      "tuniu"
+    ],
+    "category": "life",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tuniu.app.ui",
+      "GLOBAL": "com.tuniu.app.ui"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.tuniu.com/",
+    "keywords": [
+      "旅行",
+      "跟团",
+      "travel",
+      "度假"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "qzone",
+    "canonicalName": "QQ Zone",
+    "localizedNames": {
+      "en": "QQ Zone",
+      "zh-Hans": "QQ空间"
+    },
+    "aliases": [
+      "qq空间",
+      "qzone",
+      "空间"
+    ],
+    "category": "social",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.qzone",
+      "GLOBAL": "com.qzone"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://qzone.qq.com/",
+    "keywords": [
+      "社交",
+      "动态",
+      "相册",
+      "social"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "momo",
+    "canonicalName": "Momo",
+    "localizedNames": {
+      "en": "Momo",
+      "zh-Hans": "陌陌"
+    },
+    "aliases": [
+      "陌陌",
+      "momo"
+    ],
+    "category": "social",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.immomo.momo",
+      "GLOBAL": "com.immomo.momo"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.immomo.com/",
+    "keywords": [
+      "社交",
+      "交友",
+      "直播",
+      "social"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "tantan",
+    "canonicalName": "Tantan",
+    "localizedNames": {
+      "en": "Tantan",
+      "zh-Hans": "探探"
+    },
+    "aliases": [
+      "探探",
+      "tantan"
+    ],
+    "category": "social",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.p1.mobile.putong",
+      "GLOBAL": "com.p1.mobile.putong"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://tantanapp.com/",
+    "keywords": [
+      "社交",
+      "交友",
+      "dating",
+      "social"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "tieba",
+    "canonicalName": "Baidu Tieba",
+    "localizedNames": {
+      "en": "Baidu Tieba",
+      "zh-Hans": "百度贴吧"
+    },
+    "aliases": [
+      "贴吧",
+      "百度贴吧",
+      "tieba",
+      "baidutieba"
+    ],
+    "category": "social",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.baidu.tieba",
+      "GLOBAL": "com.baidu.tieba"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://tieba.baidu.com/",
+    "keywords": [
+      "论坛",
+      "社区",
+      "forum",
+      "social"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "netease_news",
+    "canonicalName": "NetEase News",
+    "localizedNames": {
+      "en": "NetEase News",
+      "zh-Hans": "网易新闻"
+    },
+    "aliases": [
+      "网易新闻",
+      "netease news",
+      "wangyixinwen"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.netease.newsreader.activity",
+      "GLOBAL": "com.netease.newsreader.activity"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://news.163.com/",
+    "keywords": [
+      "新闻",
+      "资讯",
+      "news",
+      "阅读"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "sohu_news",
+    "canonicalName": "Sohu News",
+    "localizedNames": {
+      "en": "Sohu News",
+      "zh-Hans": "搜狐新闻"
+    },
+    "aliases": [
+      "搜狐新闻",
+      "sohu news",
+      "souhu"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.sohu.newsclient",
+      "GLOBAL": "com.sohu.newsclient"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://news.sohu.com/",
+    "keywords": [
+      "新闻",
+      "资讯",
+      "news",
+      "阅读"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "douyu",
+    "canonicalName": "DouYu",
+    "localizedNames": {
+      "en": "DouYu",
+      "zh-Hans": "斗鱼直播"
+    },
+    "aliases": [
+      "斗鱼",
+      "斗鱼直播",
+      "douyu"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "air.tv.douyu.android",
+      "GLOBAL": "air.tv.douyu.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.douyu.com/",
+    "keywords": [
+      "直播",
+      "游戏",
+      "live",
+      "娱乐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "huya",
+    "canonicalName": "HUYA",
+    "localizedNames": {
+      "en": "HUYA",
+      "zh-Hans": "虎牙直播"
+    },
+    "aliases": [
+      "虎牙",
+      "虎牙直播",
+      "huya"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.duowan.kiwi",
+      "GLOBAL": "com.duowan.kiwi"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.huya.com/",
+    "keywords": [
+      "直播",
+      "游戏",
+      "live",
+      "娱乐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "kugou",
+    "canonicalName": "KuGou Music",
+    "localizedNames": {
+      "en": "KuGou Music",
+      "zh-Hans": "酷狗音乐"
+    },
+    "aliases": [
+      "酷狗",
+      "酷狗音乐",
+      "kugou"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.kugou.android",
+      "GLOBAL": "com.kugou.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.kugou.com/",
+    "keywords": [
+      "音乐",
+      "听歌",
+      "music",
+      "yinyue"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "kuwo",
+    "canonicalName": "KuWo Music",
+    "localizedNames": {
+      "en": "KuWo Music",
+      "zh-Hans": "酷我音乐"
+    },
+    "aliases": [
+      "酷我",
+      "酷我音乐",
+      "kuwo"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "cn.kuwo.player",
+      "GLOBAL": "cn.kuwo.player"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.kuwo.cn/",
+    "keywords": [
+      "音乐",
+      "听歌",
+      "music",
+      "yinyue"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "kge",
+    "canonicalName": "WeSing",
+    "localizedNames": {
+      "en": "WeSing",
+      "zh-Hans": "全民K歌"
+    },
+    "aliases": [
+      "全民k歌",
+      "kge",
+      "wesing",
+      "k歌"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tencent.karaoke",
+      "GLOBAL": "com.tencent.karaoke"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://kg.qq.com/",
+    "keywords": [
+      "唱歌",
+      "ktv",
+      "music",
+      "娱乐"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "ximalaya",
+    "canonicalName": "Ximalaya",
+    "localizedNames": {
+      "en": "Ximalaya",
+      "zh-Hans": "喜马拉雅"
+    },
+    "aliases": [
+      "喜马拉雅",
+      "ximalaya",
+      "xmly"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.ximalaya.ting.android",
+      "GLOBAL": "com.ximalaya.ting.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.ximalaya.com/",
+    "keywords": [
+      "播客",
+      "有声书",
+      "podcast",
+      "audio",
+      "听书"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "wps",
+    "canonicalName": "WPS Office",
+    "localizedNames": {
+      "en": "WPS Office",
+      "zh-Hans": "WPS Office"
+    },
+    "aliases": [
+      "wps",
+      "wps office",
+      "金山办公",
+      "wpsoffice"
+    ],
+    "category": "work",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "cn.wps.moffice_eng",
+      "GLOBAL": "cn.wps.moffice_eng"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.wps.com/",
+    "keywords": [
+      "办公",
+      "文档",
+      "表格",
+      "office",
+      "word",
+      "excel",
+      "ppt"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "wecom",
+    "canonicalName": "WeCom",
+    "localizedNames": {
+      "en": "WeCom",
+      "zh-Hans": "企业微信"
+    },
+    "aliases": [
+      "企业微信",
+      "wecom",
+      "qiyeweixin",
+      "work weixin"
+    ],
+    "category": "work",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tencent.wework",
+      "GLOBAL": "com.tencent.wework"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://work.weixin.qq.com/",
+    "keywords": [
+      "办公",
+      "协作",
+      "会议",
+      "work",
+      "企业"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "tencent_meeting",
+    "canonicalName": "Tencent Meeting",
+    "localizedNames": {
+      "en": "Tencent Meeting",
+      "zh-Hans": "腾讯会议"
+    },
+    "aliases": [
+      "腾讯会议",
+      "tencent meeting",
+      "wemeet",
+      "huiyi"
+    ],
+    "category": "work",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tencent.wemeet.app",
+      "GLOBAL": "com.tencent.wemeet.app"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://meeting.tencent.com/",
+    "keywords": [
+      "会议",
+      "视频会议",
+      "meeting",
+      "work",
+      "远程"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "feishu",
+    "canonicalName": "Lark",
+    "localizedNames": {
+      "en": "Lark",
+      "zh-Hans": "飞书"
+    },
+    "aliases": [
+      "飞书",
+      "lark",
+      "feishu"
+    ],
+    "category": "work",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.ss.android.lark",
+      "GLOBAL": "com.ss.android.lark"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.feishu.cn/",
+    "keywords": [
+      "办公",
+      "协作",
+      "文档",
+      "meeting",
+      "work"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "baidu_netdisk",
+    "canonicalName": "Baidu Netdisk",
+    "localizedNames": {
+      "en": "Baidu Netdisk",
+      "zh-Hans": "百度网盘"
+    },
+    "aliases": [
+      "百度网盘",
+      "netdisk",
+      "baiduyun",
+      "百度云",
+      "wangpan"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.baidu.netdisk",
+      "GLOBAL": "com.baidu.netdisk"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://pan.baidu.com/",
+    "keywords": [
+      "网盘",
+      "云盘",
+      "存储",
+      "cloud",
+      "storage",
+      "文件"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "qq_browser",
+    "canonicalName": "QQ Browser",
+    "localizedNames": {
+      "en": "QQ Browser",
+      "zh-Hans": "QQ浏览器"
+    },
+    "aliases": [
+      "qq浏览器",
+      "qq browser",
+      "qqbrowser"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tencent.mtt",
+      "GLOBAL": "com.tencent.mtt"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://browser.qq.com/",
+    "keywords": [
+      "浏览器",
+      "browser",
+      "上网",
+      "liulanqi"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "uc_browser",
+    "canonicalName": "UC Browser",
+    "localizedNames": {
+      "en": "UC Browser",
+      "zh-Hans": "UC浏览器"
+    },
+    "aliases": [
+      "uc浏览器",
+      "uc browser",
+      "ucbrowser",
+      "uc"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.UCMobile",
+      "GLOBAL": "com.UCMobile"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.uc.cn/",
+    "keywords": [
+      "浏览器",
+      "browser",
+      "上网",
+      "liulanqi"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "sogou_input",
+    "canonicalName": "Sogou Input",
+    "localizedNames": {
+      "en": "Sogou Input",
+      "zh-Hans": "搜狗输入法"
+    },
+    "aliases": [
+      "搜狗输入法",
+      "sogou input",
+      "sougou",
+      "输入法"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.sohu.inputmethod.sogou",
+      "GLOBAL": "com.sohu.inputmethod.sogou"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://shurufa.sogou.com/",
+    "keywords": [
+      "输入法",
+      "打字",
+      "keyboard",
+      "shurufa"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "meitu",
+    "canonicalName": "Meitu",
+    "localizedNames": {
+      "en": "Meitu",
+      "zh-Hans": "美图秀秀"
+    },
+    "aliases": [
+      "美图秀秀",
+      "meitu",
+      "美图"
+    ],
+    "category": "tools",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.mt.mtxx.mtxx",
+      "GLOBAL": "com.mt.mtxx.mtxx"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.meitu.com/",
+    "keywords": [
+      "修图",
+      "美颜",
+      "照片",
+      "photo",
+      "edit",
+      "xiutu"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "weread",
+    "canonicalName": "WeRead",
+    "localizedNames": {
+      "en": "WeRead",
+      "zh-Hans": "微信读书"
+    },
+    "aliases": [
+      "微信读书",
+      "weread",
+      "weixindushu"
+    ],
+    "category": "learning",
+    "regions": [
+      "CN",
+      "HK",
+      "TW"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.tencent.weread",
+      "GLOBAL": "com.tencent.weread"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://weread.qq.com/",
+    "keywords": [
+      "读书",
+      "电子书",
+      "阅读",
+      "book",
+      "reading",
+      "dushu"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "qq_reader",
+    "canonicalName": "QQ Reader",
+    "localizedNames": {
+      "en": "QQ Reader",
+      "zh-Hans": "QQ阅读"
+    },
+    "aliases": [
+      "qq阅读",
+      "qq reader",
+      "qqyuedu"
+    ],
+    "category": "learning",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.qq.reader",
+      "GLOBAL": "com.qq.reader"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://book.qq.com/",
+    "keywords": [
+      "读书",
+      "小说",
+      "阅读",
+      "book",
+      "reading"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "ireader",
+    "canonicalName": "iReader",
+    "localizedNames": {
+      "en": "iReader",
+      "zh-Hans": "掌阅"
+    },
+    "aliases": [
+      "掌阅",
+      "ireader",
+      "zhangyue"
+    ],
+    "category": "learning",
+    "regions": [
+      "CN"
+    ],
+    "playStorePackageNames": {
+      "CN": "com.chaozh.iReaderFree",
+      "GLOBAL": "com.chaozh.iReaderFree"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.zhangyue.com/",
+    "keywords": [
+      "读书",
+      "小说",
+      "阅读",
+      "book",
+      "reading"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": false
+  },
+  {
+    "id": "outlook",
+    "canonicalName": "Microsoft Outlook",
+    "localizedNames": {
+      "en": "Microsoft Outlook",
+      "zh-Hans": "Outlook"
+    },
+    "aliases": [
+      "outlook",
+      "microsoft outlook",
+      "ms outlook"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.microsoft.office.outlook"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://outlook.com/",
+    "keywords": [
+      "邮件",
+      "日历",
+      "email",
+      "calendar",
+      "mail",
+      "work"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "onedrive",
+    "canonicalName": "Microsoft OneDrive",
+    "localizedNames": {
+      "en": "Microsoft OneDrive",
+      "zh-Hans": "OneDrive"
+    },
+    "aliases": [
+      "onedrive",
+      "one drive",
+      "microsoft onedrive"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.microsoft.skydrive"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://onedrive.com/",
+    "keywords": [
+      "网盘",
+      "云盘",
+      "cloud",
+      "storage",
+      "文件",
+      "backup"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "ms_word",
+    "canonicalName": "Microsoft Word",
+    "localizedNames": {
+      "en": "Microsoft Word",
+      "zh-Hans": "Word"
+    },
+    "aliases": [
+      "word",
+      "microsoft word",
+      "ms word"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.microsoft.office.word"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.microsoft.com/microsoft-365/word",
+    "keywords": [
+      "文档",
+      "办公",
+      "document",
+      "office",
+      "写作"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "ms_excel",
+    "canonicalName": "Microsoft Excel",
+    "localizedNames": {
+      "en": "Microsoft Excel",
+      "zh-Hans": "Excel"
+    },
+    "aliases": [
+      "excel",
+      "microsoft excel",
+      "ms excel"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.microsoft.office.excel"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.microsoft.com/microsoft-365/excel",
+    "keywords": [
+      "表格",
+      "办公",
+      "spreadsheet",
+      "office",
+      "数据"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "ms_powerpoint",
+    "canonicalName": "Microsoft PowerPoint",
+    "localizedNames": {
+      "en": "Microsoft PowerPoint",
+      "zh-Hans": "PowerPoint"
+    },
+    "aliases": [
+      "powerpoint",
+      "ppt",
+      "microsoft powerpoint"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.microsoft.office.powerpoint"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.microsoft.com/microsoft-365/powerpoint",
+    "keywords": [
+      "幻灯片",
+      "演示",
+      "slides",
+      "office",
+      "ppt"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "onenote",
+    "canonicalName": "Microsoft OneNote",
+    "localizedNames": {
+      "en": "Microsoft OneNote",
+      "zh-Hans": "OneNote"
+    },
+    "aliases": [
+      "onenote",
+      "one note",
+      "microsoft onenote"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.microsoft.office.onenote"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.onenote.com/",
+    "keywords": [
+      "笔记",
+      "note",
+      "office",
+      "记录"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "edge",
+    "canonicalName": "Microsoft Edge",
+    "localizedNames": {
+      "en": "Microsoft Edge",
+      "zh-Hans": "Edge 浏览器"
+    },
+    "aliases": [
+      "edge",
+      "microsoft edge",
+      "ms edge"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.microsoft.emmx"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.microsoft.com/edge",
+    "keywords": [
+      "浏览器",
+      "browser",
+      "上网",
+      "web"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "google_translate",
+    "canonicalName": "Google Translate",
+    "localizedNames": {
+      "en": "Google Translate",
+      "zh-Hans": "Google 翻译"
+    },
+    "aliases": [
+      "google translate",
+      "谷歌翻译",
+      "translate",
+      "翻译"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.apps.translate"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://translate.google.com/",
+    "keywords": [
+      "翻译",
+      "translate",
+      "语言",
+      "language",
+      "fanyi"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "google_keep",
+    "canonicalName": "Google Keep",
+    "localizedNames": {
+      "en": "Google Keep",
+      "zh-Hans": "Google Keep"
+    },
+    "aliases": [
+      "google keep",
+      "keep",
+      "谷歌记事"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.keep"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://keep.google.com/",
+    "keywords": [
+      "笔记",
+      "note",
+      "待办",
+      "todo",
+      "记录"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "youtube_music",
+    "canonicalName": "YouTube Music",
+    "localizedNames": {
+      "en": "YouTube Music",
+      "zh-Hans": "YouTube Music"
+    },
+    "aliases": [
+      "youtube music",
+      "ytmusic",
+      "yt music"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.apps.youtube.music"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://music.youtube.com/",
+    "keywords": [
+      "音乐",
+      "music",
+      "streaming",
+      "听歌"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "gboard",
+    "canonicalName": "Gboard",
+    "localizedNames": {
+      "en": "Gboard",
+      "zh-Hans": "Gboard 输入法"
+    },
+    "aliases": [
+      "gboard",
+      "google keyboard",
+      "谷歌输入法"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.google.android.inputmethod.latin"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://gboard.app.goo.gl/",
+    "keywords": [
+      "输入法",
+      "keyboard",
+      "打字",
+      "shurufa"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "viber",
+    "canonicalName": "Viber",
+    "localizedNames": {
+      "en": "Viber",
+      "zh-Hans": "Viber"
+    },
+    "aliases": [
+      "viber"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.viber.voip"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.viber.com/",
+    "keywords": [
+      "聊天",
+      "通话",
+      "chat",
+      "call",
+      "message"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "skype",
+    "canonicalName": "Skype",
+    "localizedNames": {
+      "en": "Skype",
+      "zh-Hans": "Skype"
+    },
+    "aliases": [
+      "skype"
+    ],
+    "category": "social",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.skype.raider"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.skype.com/",
+    "keywords": [
+      "通话",
+      "视频",
+      "chat",
+      "call",
+      "video"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "todoist",
+    "canonicalName": "Todoist",
+    "localizedNames": {
+      "en": "Todoist",
+      "zh-Hans": "Todoist"
+    },
+    "aliases": [
+      "todoist",
+      "todo ist"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.todoist"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://todoist.com/",
+    "keywords": [
+      "待办",
+      "任务",
+      "todo",
+      "task",
+      "效率"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "trello",
+    "canonicalName": "Trello",
+    "localizedNames": {
+      "en": "Trello",
+      "zh-Hans": "Trello"
+    },
+    "aliases": [
+      "trello"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.trello"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://trello.com/",
+    "keywords": [
+      "看板",
+      "项目",
+      "kanban",
+      "project",
+      "协作"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "evernote",
+    "canonicalName": "Evernote",
+    "localizedNames": {
+      "en": "Evernote",
+      "zh-Hans": "印象笔记"
+    },
+    "aliases": [
+      "evernote",
+      "印象笔记",
+      "yinxiang"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.evernote"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://evernote.com/",
+    "keywords": [
+      "笔记",
+      "note",
+      "记录",
+      "整理"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "github",
+    "canonicalName": "GitHub",
+    "localizedNames": {
+      "en": "GitHub",
+      "zh-Hans": "GitHub"
+    },
+    "aliases": [
+      "github",
+      "git hub"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.github.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://github.com/",
+    "keywords": [
+      "代码",
+      "开发",
+      "code",
+      "dev",
+      "开源"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "kindle",
+    "canonicalName": "Amazon Kindle",
+    "localizedNames": {
+      "en": "Amazon Kindle",
+      "zh-Hans": "Kindle"
+    },
+    "aliases": [
+      "kindle",
+      "amazon kindle"
+    ],
+    "category": "learning",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.amazon.kindle"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://read.amazon.com/",
+    "keywords": [
+      "读书",
+      "电子书",
+      "book",
+      "reading",
+      "ebook"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "audible",
+    "canonicalName": "Audible",
+    "localizedNames": {
+      "en": "Audible",
+      "zh-Hans": "Audible"
+    },
+    "aliases": [
+      "audible"
+    ],
+    "category": "learning",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.audible.application"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.audible.com/",
+    "keywords": [
+      "有声书",
+      "播客",
+      "audiobook",
+      "podcast",
+      "听书"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "soundcloud",
+    "canonicalName": "SoundCloud",
+    "localizedNames": {
+      "en": "SoundCloud",
+      "zh-Hans": "SoundCloud"
+    },
+    "aliases": [
+      "soundcloud",
+      "sound cloud"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.soundcloud.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://soundcloud.com/",
+    "keywords": [
+      "音乐",
+      "music",
+      "streaming",
+      "听歌"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "strava",
+    "canonicalName": "Strava",
+    "localizedNames": {
+      "en": "Strava",
+      "zh-Hans": "Strava"
+    },
+    "aliases": [
+      "strava"
+    ],
+    "category": "life",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.strava"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.strava.com/",
+    "keywords": [
+      "运动",
+      "跑步",
+      "骑行",
+      "fitness",
+      "running",
+      "健身"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "vlc",
+    "canonicalName": "VLC",
+    "localizedNames": {
+      "en": "VLC",
+      "zh-Hans": "VLC 播放器"
+    },
+    "aliases": [
+      "vlc",
+      "vlc player",
+      "vlc媒体播放器"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "org.videolan.vlc"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.videolan.org/vlc/",
+    "keywords": [
+      "播放器",
+      "视频",
+      "player",
+      "video",
+      "media"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "firefox",
+    "canonicalName": "Firefox",
+    "localizedNames": {
+      "en": "Firefox",
+      "zh-Hans": "火狐浏览器"
+    },
+    "aliases": [
+      "firefox",
+      "火狐",
+      "火狐浏览器",
+      "huohu"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "org.mozilla.firefox"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.mozilla.org/firefox/",
+    "keywords": [
+      "浏览器",
+      "browser",
+      "上网",
+      "web"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "steam",
+    "canonicalName": "Steam",
+    "localizedNames": {
+      "en": "Steam",
+      "zh-Hans": "Steam"
+    },
+    "aliases": [
+      "steam"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.valvesoftware.android.steam.community"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://store.steampowered.com/",
+    "keywords": [
+      "游戏",
+      "game",
+      "商店",
+      "gaming"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "roblox",
+    "canonicalName": "Roblox",
+    "localizedNames": {
+      "en": "Roblox",
+      "zh-Hans": "Roblox"
+    },
+    "aliases": [
+      "roblox"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.roblox.client"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.roblox.com/",
+    "keywords": [
+      "游戏",
+      "game",
+      "gaming",
+      "沙盒"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "minecraft",
+    "canonicalName": "Minecraft",
+    "localizedNames": {
+      "en": "Minecraft",
+      "zh-Hans": "我的世界"
+    },
+    "aliases": [
+      "minecraft",
+      "我的世界",
+      "mc"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.mojang.minecraftpe"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.minecraft.net/",
+    "keywords": [
+      "游戏",
+      "game",
+      "沙盒",
+      "gaming"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "coinbase",
+    "canonicalName": "Coinbase",
+    "localizedNames": {
+      "en": "Coinbase",
+      "zh-Hans": "Coinbase"
+    },
+    "aliases": [
+      "coinbase"
+    ],
+    "category": "work",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.coinbase.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.coinbase.com/",
+    "keywords": [
+      "加密货币",
+      "crypto",
+      "投资",
+      "bitcoin",
+      "finance"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  },
+  {
+    "id": "etsy",
+    "canonicalName": "Etsy",
+    "localizedNames": {
+      "en": "Etsy",
+      "zh-Hans": "Etsy"
+    },
+    "aliases": [
+      "etsy"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.etsy.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.etsy.com/",
+    "keywords": [
+      "购物",
+      "手工",
+      "shopping",
+      "handmade"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": null,
+    "availableOnPlay": true
+  }
+]
