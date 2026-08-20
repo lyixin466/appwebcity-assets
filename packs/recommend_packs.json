@@ -1,0 +1,2053 @@
+{
+  "version": 2,
+  "packs": [
+    {
+      "id": "student_abroad",
+      "title": {
+        "zh-Hans": "留学生推荐包",
+        "en": "Study Abroad Pack"
+      },
+      "subtitle": {
+        "zh-Hans": "生活、学习、购物常用 App 精选",
+        "en": "Essentials for living, studying and shopping"
+      },
+      "bannerDrawable": "recommend_pack_student_banner",
+      "regions": [
+        {
+          "id": "ca_toronto",
+          "countryCode": "CA",
+          "name": {
+            "zh-Hans": "加拿大 · 多伦多",
+            "en": "Canada · Toronto"
+          },
+          "country": {
+            "zh-Hans": "加拿大",
+            "en": "Canada"
+          },
+          "city": {
+            "zh-Hans": "多伦多",
+            "en": "Toronto"
+          },
+          "items": [
+            {
+              "id": "presto",
+              "kind": "app",
+              "name": "PRESTO",
+              "category": "transit",
+              "description": {
+                "en": "Official PRESTO transit fare card app",
+                "zh-Hans": "安大略公交卡官方App"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/presto.png",
+              "registryID": "presto"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "uber",
+              "kind": "app",
+              "name": "Uber",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing across the city",
+                "zh-Hans": "随叫随到的打车服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber.png",
+              "registryID": "uber"
+            },
+            {
+              "id": "uber_eats",
+              "kind": "app",
+              "name": "Uber Eats",
+              "category": "food_drink",
+              "description": {
+                "en": "Food delivery and pickup around the city",
+                "zh-Hans": "同城外卖与到店自取"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber_eats.png",
+              "registryID": "uber_eats"
+            },
+            {
+              "id": "doordash",
+              "kind": "app",
+              "name": "DoorDash",
+              "category": "food_drink",
+              "description": {
+                "en": "Restaurant delivery and grocery orders",
+                "zh-Hans": "餐厅外卖与生鲜配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/doordash.png",
+              "registryID": "doordash"
+            },
+            {
+              "id": "fantuan",
+              "kind": "app",
+              "name": "Fantuan 饭团外卖",
+              "category": "food_drink",
+              "description": {
+                "en": "Asian food delivery in Canada and the US",
+                "zh-Hans": "北美华人外卖平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/fantuan.png",
+              "registryID": "fantuan"
+            },
+            {
+              "id": "instacart",
+              "kind": "app",
+              "name": "Instacart",
+              "category": "shopping",
+              "description": {
+                "en": "Same-day grocery delivery from local stores",
+                "zh-Hans": "当日达生鲜代购配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/instacart.png",
+              "registryID": "instacart"
+            },
+            {
+              "id": "amazon",
+              "kind": "app",
+              "name": "Amazon",
+              "category": "shopping",
+              "description": {
+                "en": "Shop almost anything with fast delivery",
+                "zh-Hans": "网购百货与快速配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/amazon.png",
+              "registryID": "amazon"
+            },
+            {
+              "id": "td_canada",
+              "kind": "app",
+              "name": "TD Canada Trust",
+              "category": "finance",
+              "description": {
+                "en": "Mobile banking for TD Canada Trust",
+                "zh-Hans": "道明银行加拿大手机银行"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/td_canada.png",
+              "registryID": "td_canada"
+            },
+            {
+              "id": "wise",
+              "kind": "app",
+              "name": "Wise",
+              "category": "finance",
+              "description": {
+                "en": "Send money abroad at the real exchange rate",
+                "zh-Hans": "低费率国际汇款与多币种账户"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/wise.png",
+              "registryID": "wise"
+            },
+            {
+              "id": "unidays",
+              "kind": "app",
+              "name": "UNiDAYS",
+              "category": "life",
+              "description": {
+                "en": "Verified student discounts at top brands",
+                "zh-Hans": "学生身份认证专属折扣"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/unidays.png",
+              "registryID": "unidays"
+            },
+            {
+              "id": "facebook_marketplace",
+              "kind": "web",
+              "name": "Facebook Marketplace",
+              "category": "shopping",
+              "webURL": "https://www.facebook.com/marketplace/",
+              "description": {
+                "en": "Local secondhand buy and sell on Facebook",
+                "zh-Hans": "脸书本地二手交易"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/facebook_marketplace.png"
+            },
+            {
+              "id": "rentals_ca",
+              "kind": "web",
+              "name": "Rentals.ca 多伦多",
+              "category": "life",
+              "webURL": "https://rentals.ca/toronto",
+              "description": {
+                "en": "Toronto apartment and condo rentals",
+                "zh-Hans": "多伦多公寓租房房源"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/rentals_ca.png"
+            },
+            {
+              "id": "kijiji_toronto_rentals",
+              "kind": "web",
+              "name": "Kijiji 多伦多租房",
+              "category": "life",
+              "webURL": "https://www.kijiji.ca/b-apartments-condos/city-of-toronto/c37l1700273",
+              "description": {
+                "en": "Kijiji classifieds for Toronto rentals",
+                "zh-Hans": "多伦多分类广告租房版块"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/kijiji_toronto_rentals.png"
+            },
+            {
+              "id": "realtor_ca",
+              "kind": "web",
+              "name": "REALTOR.ca 多伦多",
+              "category": "life",
+              "webURL": "https://www.realtor.ca/on/toronto/apartments-for-rent",
+              "description": {
+                "en": "Canadian MLS listings for Toronto",
+                "zh-Hans": "加拿大官方房源多伦多租房"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/realtor_ca.png"
+            },
+            {
+              "id": "canada_study",
+              "kind": "web",
+              "name": "加拿大学签官网",
+              "category": "learning",
+              "webURL": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html",
+              "description": {
+                "en": "Official Canadian study permit info",
+                "zh-Hans": "加拿大学签留学官方指南"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/canada_study.png"
+            },
+            {
+              "id": "student_beans_ca",
+              "kind": "web",
+              "name": "Student Beans",
+              "category": "life",
+              "webURL": "https://www.studentbeans.com/ca",
+              "description": {
+                "en": "Verified student discounts at major brands",
+                "zh-Hans": "品牌学生折扣验证平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/student_beans_ca.png"
+            }
+          ]
+        },
+        {
+          "id": "ca_vancouver",
+          "countryCode": "CA",
+          "name": {
+            "zh-Hans": "加拿大 · 温哥华",
+            "en": "Canada · Vancouver"
+          },
+          "country": {
+            "zh-Hans": "加拿大",
+            "en": "Canada"
+          },
+          "city": {
+            "zh-Hans": "温哥华",
+            "en": "Vancouver"
+          },
+          "items": [
+            {
+              "id": "transit_app",
+              "kind": "app",
+              "name": "Transit",
+              "category": "transit",
+              "description": {
+                "en": "Real-time bus and subway times",
+                "zh-Hans": "实时公交地铁到站与路线"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/transit_app.png",
+              "registryID": "transit_app"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "uber",
+              "kind": "app",
+              "name": "Uber",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing across the city",
+                "zh-Hans": "随叫随到的打车服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber.png",
+              "registryID": "uber"
+            },
+            {
+              "id": "lyft",
+              "kind": "app",
+              "name": "Lyft",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing alternative in North America",
+                "zh-Hans": "北美打车出行"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/lyft.png",
+              "registryID": "lyft"
+            },
+            {
+              "id": "uber_eats",
+              "kind": "app",
+              "name": "Uber Eats",
+              "category": "food_drink",
+              "description": {
+                "en": "Food delivery and pickup around the city",
+                "zh-Hans": "同城外卖与到店自取"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber_eats.png",
+              "registryID": "uber_eats"
+            },
+            {
+              "id": "fantuan",
+              "kind": "app",
+              "name": "Fantuan 饭团外卖",
+              "category": "food_drink",
+              "description": {
+                "en": "Asian food delivery in Canada and the US",
+                "zh-Hans": "北美华人外卖平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/fantuan.png",
+              "registryID": "fantuan"
+            },
+            {
+              "id": "instacart",
+              "kind": "app",
+              "name": "Instacart",
+              "category": "shopping",
+              "description": {
+                "en": "Same-day grocery delivery from local stores",
+                "zh-Hans": "当日达生鲜代购配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/instacart.png",
+              "registryID": "instacart"
+            },
+            {
+              "id": "amazon",
+              "kind": "app",
+              "name": "Amazon",
+              "category": "shopping",
+              "description": {
+                "en": "Shop almost anything with fast delivery",
+                "zh-Hans": "网购百货与快速配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/amazon.png",
+              "registryID": "amazon"
+            },
+            {
+              "id": "td_canada",
+              "kind": "app",
+              "name": "TD Canada Trust",
+              "category": "finance",
+              "description": {
+                "en": "Mobile banking for TD Canada Trust",
+                "zh-Hans": "道明银行加拿大手机银行"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/td_canada.png",
+              "registryID": "td_canada"
+            },
+            {
+              "id": "wise",
+              "kind": "app",
+              "name": "Wise",
+              "category": "finance",
+              "description": {
+                "en": "Send money abroad at the real exchange rate",
+                "zh-Hans": "低费率国际汇款与多币种账户"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/wise.png",
+              "registryID": "wise"
+            },
+            {
+              "id": "evo",
+              "kind": "app",
+              "name": "Evo Car Share",
+              "category": "transit",
+              "description": {
+                "en": "Car sharing in Vancouver by BCAA",
+                "zh-Hans": "温哥华共享汽车"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/evo.png",
+              "registryID": "evo"
+            },
+            {
+              "id": "facebook_marketplace",
+              "kind": "web",
+              "name": "Facebook Marketplace",
+              "category": "shopping",
+              "webURL": "https://www.facebook.com/marketplace/",
+              "description": {
+                "en": "Local secondhand buy and sell on Facebook",
+                "zh-Hans": "脸书本地二手交易"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/facebook_marketplace.png"
+            },
+            {
+              "id": "liv_rent",
+              "kind": "web",
+              "name": "liv.rent 温哥华",
+              "category": "life",
+              "webURL": "https://liv.rent/rental-listings/city/vancouver",
+              "description": {
+                "en": "Verified Vancouver rentals with e-leases",
+                "zh-Hans": "温哥华认证房源租房平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/liv_rent.png"
+            },
+            {
+              "id": "craigslist_vancouver",
+              "kind": "web",
+              "name": "Craigslist 温哥华",
+              "category": "life",
+              "webURL": "https://vancouver.craigslist.org/search/apa",
+              "description": {
+                "en": "Vancouver housing and rental classifieds",
+                "zh-Hans": "温哥华分类广告租房版块"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/craigslist_vancouver.png"
+            },
+            {
+              "id": "padmapper_vancouver",
+              "kind": "web",
+              "name": "PadMapper 温哥华",
+              "category": "life",
+              "webURL": "https://www.padmapper.com/apartments/vancouver-bc",
+              "description": {
+                "en": "Map-based apartment search",
+                "zh-Hans": "温哥华地图找房工具"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/padmapper_vancouver.png"
+            },
+            {
+              "id": "translink",
+              "kind": "web",
+              "name": "TransLink",
+              "category": "transit",
+              "webURL": "https://www.translink.ca/",
+              "description": {
+                "en": "Metro Vancouver fares and trip planner",
+                "zh-Hans": "温哥华公共交通出行官网"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/translink.png"
+            },
+            {
+              "id": "canada_study",
+              "kind": "web",
+              "name": "加拿大学签官网",
+              "category": "learning",
+              "webURL": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html",
+              "description": {
+                "en": "Official Canadian study permit info",
+                "zh-Hans": "加拿大学签留学官方指南"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/canada_study.png"
+            }
+          ]
+        },
+        {
+          "id": "us_newyork",
+          "countryCode": "US",
+          "name": {
+            "zh-Hans": "美国 · 纽约",
+            "en": "United States · New York"
+          },
+          "country": {
+            "zh-Hans": "美国",
+            "en": "United States"
+          },
+          "city": {
+            "zh-Hans": "纽约",
+            "en": "New York"
+          },
+          "items": [
+            {
+              "id": "mta_official",
+              "kind": "app",
+              "name": "MTA",
+              "category": "transit",
+              "description": {
+                "en": "Official MTA app for NYC subway and bus",
+                "zh-Hans": "纽约地铁公交官方App"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mta_official.png",
+              "registryID": "mta_official"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "uber",
+              "kind": "app",
+              "name": "Uber",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing across the city",
+                "zh-Hans": "随叫随到的打车服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber.png",
+              "registryID": "uber"
+            },
+            {
+              "id": "lyft",
+              "kind": "app",
+              "name": "Lyft",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing alternative in North America",
+                "zh-Hans": "北美打车出行"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/lyft.png",
+              "registryID": "lyft"
+            },
+            {
+              "id": "uber_eats",
+              "kind": "app",
+              "name": "Uber Eats",
+              "category": "food_drink",
+              "description": {
+                "en": "Food delivery and pickup around the city",
+                "zh-Hans": "同城外卖与到店自取"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber_eats.png",
+              "registryID": "uber_eats"
+            },
+            {
+              "id": "resy",
+              "kind": "app",
+              "name": "Resy",
+              "category": "food_drink",
+              "description": {
+                "en": "Book tables at popular US restaurants",
+                "zh-Hans": "美国热门餐厅在线订位"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/resy.png",
+              "registryID": "resy"
+            },
+            {
+              "id": "opentable",
+              "kind": "app",
+              "name": "OpenTable",
+              "category": "food_drink",
+              "description": {
+                "en": "Find and book restaurant reservations",
+                "zh-Hans": "查找并预订餐厅座位"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/opentable.png",
+              "registryID": "opentable"
+            },
+            {
+              "id": "weee",
+              "kind": "app",
+              "name": "Weee!",
+              "category": "shopping",
+              "description": {
+                "en": "Asian grocery delivery across North America",
+                "zh-Hans": "北美亚洲生鲜食品配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/weee.png",
+              "registryID": "weee"
+            },
+            {
+              "id": "too_good_to_go",
+              "kind": "app",
+              "name": "Too Good To Go",
+              "category": "food_drink",
+              "description": {
+                "en": "Rescue surplus food from stores cheaply",
+                "zh-Hans": "低价抢购商家余量食物"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/too_good_to_go.png",
+              "registryID": "too_good_to_go"
+            },
+            {
+              "id": "amazon",
+              "kind": "app",
+              "name": "Amazon",
+              "category": "shopping",
+              "description": {
+                "en": "Shop almost anything with fast delivery",
+                "zh-Hans": "网购百货与快速配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/amazon.png",
+              "registryID": "amazon"
+            },
+            {
+              "id": "target",
+              "kind": "app",
+              "name": "Target",
+              "category": "shopping",
+              "description": {
+                "en": "Shop Target, order pickup and deals",
+                "zh-Hans": "Target购物与到店取货"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/target.png",
+              "registryID": "target"
+            },
+            {
+              "id": "chase",
+              "kind": "app",
+              "name": "Chase",
+              "category": "finance",
+              "description": {
+                "en": "Chase accounts, Zelle and mobile deposit",
+                "zh-Hans": "大通银行账户与转账存支票"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/chase.png",
+              "registryID": "chase"
+            },
+            {
+              "id": "bank_of_america",
+              "kind": "app",
+              "name": "Bank of America",
+              "category": "finance",
+              "description": {
+                "en": "Bank of America accounts and deposits",
+                "zh-Hans": "美国银行账户与存支票"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/bank_of_america.png",
+              "registryID": "bank_of_america"
+            },
+            {
+              "id": "splitwise",
+              "kind": "app",
+              "name": "Splitwise",
+              "category": "finance",
+              "description": {
+                "en": "Split bills and track shared expenses",
+                "zh-Hans": "分摊账单与记录共同开支"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/splitwise.png",
+              "registryID": "splitwise"
+            },
+            {
+              "id": "duo_mobile",
+              "kind": "app",
+              "name": "Duo Mobile",
+              "category": "tools",
+              "description": {
+                "en": "Two-factor login approval for school",
+                "zh-Hans": "学校账号双因素登录验证"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/duo_mobile.png",
+              "registryID": "duo_mobile"
+            },
+            {
+              "id": "ticketmaster",
+              "kind": "app",
+              "name": "Ticketmaster",
+              "category": "entertainment",
+              "description": {
+                "en": "Buy and transfer concert and sports tickets",
+                "zh-Hans": "购买与转让演出体育门票"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/ticketmaster.png",
+              "registryID": "ticketmaster"
+            },
+            {
+              "id": "galapro",
+              "kind": "app",
+              "name": "GalaPro",
+              "category": "entertainment",
+              "description": {
+                "en": "Live captions and translation for theater",
+                "zh-Hans": "剧院演出实时字幕与翻译"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/galapro.png",
+              "registryID": "galapro"
+            },
+            {
+              "id": "gmail",
+              "kind": "app",
+              "name": "Gmail",
+              "category": "work",
+              "description": {
+                "en": "Email for school and everyday accounts",
+                "zh-Hans": "邮箱收发与账号管理"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/gmail.png",
+              "registryID": "gmail"
+            },
+            {
+              "id": "slack",
+              "kind": "app",
+              "name": "Slack",
+              "category": "work",
+              "description": {
+                "en": "Team chat for classes and student groups",
+                "zh-Hans": "课程与社团协作聊天"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/slack.png",
+              "registryID": "slack"
+            },
+            {
+              "id": "google_calendar",
+              "kind": "web",
+              "name": "Google Calendar",
+              "category": "work",
+              "webURL": "https://calendar.google.com/",
+              "description": {
+                "en": "Schedule classes and events",
+                "zh-Hans": "谷歌日历课程日程管理"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_calendar.png"
+            },
+            {
+              "id": "handshake",
+              "kind": "web",
+              "name": "Handshake",
+              "category": "work",
+              "webURL": "https://joinhandshake.com/",
+              "description": {
+                "en": "Campus job and internship platform",
+                "zh-Hans": "大学生求职实习招聘平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/handshake.png"
+            },
+            {
+              "id": "cvs",
+              "kind": "web",
+              "name": "CVS",
+              "category": "life",
+              "webURL": "https://www.cvs.com/",
+              "description": {
+                "en": "US pharmacy for prescriptions and essentials",
+                "zh-Hans": "美国连锁药店购药与日用"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/cvs.png"
+            },
+            {
+              "id": "usps_informed_delivery",
+              "kind": "web",
+              "name": "USPS Informed Delivery",
+              "category": "life",
+              "webURL": "https://informeddelivery.usps.com/",
+              "description": {
+                "en": "Preview USPS mail and track packages",
+                "zh-Hans": "美国邮政邮件预览与追踪"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/usps_informed_delivery.png"
+            },
+            {
+              "id": "ups_my_choice",
+              "kind": "web",
+              "name": "UPS My Choice",
+              "category": "life",
+              "webURL": "https://www.ups.com/us/en/track/ups-my-choice",
+              "description": {
+                "en": "Track and reschedule UPS deliveries",
+                "zh-Hans": "UPS包裹追踪与改派"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/ups_my_choice.png"
+            },
+            {
+              "id": "fedex_delivery_manager",
+              "kind": "web",
+              "name": "FedEx Delivery Manager",
+              "category": "life",
+              "webURL": "https://www.fedex.com/en-us/delivery-manager.html",
+              "description": {
+                "en": "Manage and track FedEx deliveries",
+                "zh-Hans": "FedEx快递追踪与管理"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/fedex_delivery_manager.png"
+            }
+          ]
+        },
+        {
+          "id": "us_boston",
+          "countryCode": "US",
+          "name": {
+            "zh-Hans": "美国 · 波士顿",
+            "en": "United States · Boston"
+          },
+          "country": {
+            "zh-Hans": "美国",
+            "en": "United States"
+          },
+          "city": {
+            "zh-Hans": "波士顿",
+            "en": "Boston"
+          },
+          "items": [
+            {
+              "id": "mbta_go",
+              "kind": "app",
+              "name": "MBTA Go",
+              "category": "transit",
+              "description": {
+                "en": "Official MBTA app for live Boston transit",
+                "zh-Hans": "波士顿MBTA官方实时公交"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mbta_go.png",
+              "registryID": "mbta_go"
+            },
+            {
+              "id": "mbta_mticket",
+              "kind": "app",
+              "name": "MBTA mTicket",
+              "category": "transit",
+              "description": {
+                "en": "Buy MBTA Commuter Rail and ferry tickets",
+                "zh-Hans": "MBTA通勤铁路与轮渡购票"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mbta_mticket.png",
+              "registryID": "mbta_mticket"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "uber",
+              "kind": "app",
+              "name": "Uber",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing across the city",
+                "zh-Hans": "随叫随到的打车服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber.png",
+              "registryID": "uber"
+            },
+            {
+              "id": "lyft",
+              "kind": "app",
+              "name": "Lyft",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing alternative in North America",
+                "zh-Hans": "北美打车出行"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/lyft.png",
+              "registryID": "lyft"
+            },
+            {
+              "id": "uber_eats",
+              "kind": "app",
+              "name": "Uber Eats",
+              "category": "food_drink",
+              "description": {
+                "en": "Food delivery and pickup around the city",
+                "zh-Hans": "同城外卖与到店自取"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber_eats.png",
+              "registryID": "uber_eats"
+            },
+            {
+              "id": "doordash",
+              "kind": "app",
+              "name": "DoorDash",
+              "category": "food_drink",
+              "description": {
+                "en": "Restaurant delivery and grocery orders",
+                "zh-Hans": "餐厅外卖与生鲜配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/doordash.png",
+              "registryID": "doordash"
+            },
+            {
+              "id": "instacart",
+              "kind": "app",
+              "name": "Instacart",
+              "category": "shopping",
+              "description": {
+                "en": "Same-day grocery delivery from local stores",
+                "zh-Hans": "当日达生鲜代购配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/instacart.png",
+              "registryID": "instacart"
+            },
+            {
+              "id": "amazon",
+              "kind": "app",
+              "name": "Amazon",
+              "category": "shopping",
+              "description": {
+                "en": "Shop almost anything with fast delivery",
+                "zh-Hans": "网购百货与快速配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/amazon.png",
+              "registryID": "amazon"
+            },
+            {
+              "id": "venmo",
+              "kind": "app",
+              "name": "Venmo",
+              "category": "finance",
+              "description": {
+                "en": "Split bills and pay friends instantly",
+                "zh-Hans": "好友之间快速转账"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/venmo.png",
+              "registryID": "venmo"
+            },
+            {
+              "id": "paypal",
+              "kind": "app",
+              "name": "PayPal",
+              "category": "finance",
+              "description": {
+                "en": "Send money and pay online securely",
+                "zh-Hans": "在线支付与转账"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/paypal.png",
+              "registryID": "paypal"
+            },
+            {
+              "id": "unidays",
+              "kind": "app",
+              "name": "UNiDAYS",
+              "category": "life",
+              "description": {
+                "en": "Verified student discounts at top brands",
+                "zh-Hans": "学生身份认证专属折扣"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/unidays.png",
+              "registryID": "unidays"
+            },
+            {
+              "id": "facebook_marketplace",
+              "kind": "web",
+              "name": "Facebook Marketplace",
+              "category": "shopping",
+              "webURL": "https://www.facebook.com/marketplace/",
+              "description": {
+                "en": "Local secondhand buy and sell on Facebook",
+                "zh-Hans": "脸书本地二手交易"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/facebook_marketplace.png"
+            },
+            {
+              "id": "zillow",
+              "kind": "web",
+              "name": "Zillow",
+              "category": "life",
+              "webURL": "https://www.zillow.com/",
+              "description": {
+                "en": "US home and apartment rental search",
+                "zh-Hans": "美国租房买房搜索平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/zillow.png"
+            },
+            {
+              "id": "apartments_com",
+              "kind": "web",
+              "name": "Apartments.com",
+              "category": "life",
+              "webURL": "https://www.apartments.com/",
+              "description": {
+                "en": "US apartment rental listings and search",
+                "zh-Hans": "美国公寓租房房源平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/apartments_com.png"
+            },
+            {
+              "id": "boston_pads",
+              "kind": "web",
+              "name": "Boston Pads",
+              "category": "life",
+              "webURL": "https://bostonpads.com/",
+              "description": {
+                "en": "Greater Boston apartment rentals",
+                "zh-Hans": "大波士顿地区租房房源"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/boston_pads.png"
+            },
+            {
+              "id": "uscis",
+              "kind": "web",
+              "name": "USCIS",
+              "category": "learning",
+              "webURL": "https://www.uscis.gov/",
+              "description": {
+                "en": "US immigration and visa status services",
+                "zh-Hans": "美国移民局签证身份服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uscis.png"
+            },
+            {
+              "id": "student_beans_us",
+              "kind": "web",
+              "name": "Student Beans",
+              "category": "life",
+              "webURL": "https://www.studentbeans.com/us",
+              "description": {
+                "en": "Verified student discounts at major brands",
+                "zh-Hans": "品牌学生折扣验证平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/student_beans_us.png"
+            }
+          ]
+        },
+        {
+          "id": "gb_london",
+          "countryCode": "GB",
+          "name": {
+            "zh-Hans": "英国 · 伦敦",
+            "en": "United Kingdom · London"
+          },
+          "country": {
+            "zh-Hans": "英国",
+            "en": "United Kingdom"
+          },
+          "city": {
+            "zh-Hans": "伦敦",
+            "en": "London"
+          },
+          "items": [
+            {
+              "id": "tfl_go",
+              "kind": "app",
+              "name": "TfL Go",
+              "category": "transit",
+              "description": {
+                "en": "Live Tube, bus and rail times across London",
+                "zh-Hans": "伦敦地铁公交实时出行"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/tfl_go.png",
+              "registryID": "tfl_go"
+            },
+            {
+              "id": "citymapper",
+              "kind": "app",
+              "name": "Citymapper",
+              "category": "transit",
+              "description": {
+                "en": "Best routes across the city by transit or bike",
+                "zh-Hans": "全能城市公交路线导航"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/citymapper.png",
+              "registryID": "citymapper"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "trainline",
+              "kind": "app",
+              "name": "Trainline",
+              "category": "transit",
+              "description": {
+                "en": "Book UK and Europe train and coach tickets",
+                "zh-Hans": "英国欧洲火车大巴订票"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/trainline.png",
+              "registryID": "trainline"
+            },
+            {
+              "id": "uber",
+              "kind": "app",
+              "name": "Uber",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing across the city",
+                "zh-Hans": "随叫随到的打车服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber.png",
+              "registryID": "uber"
+            },
+            {
+              "id": "deliveroo",
+              "kind": "app",
+              "name": "Deliveroo",
+              "category": "food_drink",
+              "description": {
+                "en": "Order restaurant food and groceries to your door",
+                "zh-Hans": "餐厅外卖与生鲜配送到家"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/deliveroo.png",
+              "registryID": "deliveroo"
+            },
+            {
+              "id": "uber_eats",
+              "kind": "app",
+              "name": "Uber Eats",
+              "category": "food_drink",
+              "description": {
+                "en": "Food delivery and pickup around the city",
+                "zh-Hans": "同城外卖与到店自取"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber_eats.png",
+              "registryID": "uber_eats"
+            },
+            {
+              "id": "amazon",
+              "kind": "app",
+              "name": "Amazon",
+              "category": "shopping",
+              "description": {
+                "en": "Shop almost anything with fast delivery",
+                "zh-Hans": "网购百货与快速配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/amazon.png",
+              "registryID": "amazon"
+            },
+            {
+              "id": "tesco",
+              "kind": "app",
+              "name": "Tesco",
+              "category": "shopping",
+              "description": {
+                "en": "Shop Tesco groceries and use your Clubcard",
+                "zh-Hans": "乐购超市购物与会员卡"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/tesco.png",
+              "registryID": "tesco"
+            },
+            {
+              "id": "revolut",
+              "kind": "app",
+              "name": "Revolut",
+              "category": "finance",
+              "description": {
+                "en": "Spend, save and exchange 100+ currencies",
+                "zh-Hans": "多币种消费储蓄与换汇"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/revolut.png",
+              "registryID": "revolut"
+            },
+            {
+              "id": "wise",
+              "kind": "app",
+              "name": "Wise",
+              "category": "finance",
+              "description": {
+                "en": "Send money abroad at the real exchange rate",
+                "zh-Hans": "低费率国际汇款与多币种账户"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/wise.png",
+              "registryID": "wise"
+            },
+            {
+              "id": "unidays",
+              "kind": "app",
+              "name": "UNiDAYS",
+              "category": "life",
+              "description": {
+                "en": "Verified student discounts at top brands",
+                "zh-Hans": "学生身份认证专属折扣"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/unidays.png",
+              "registryID": "unidays"
+            },
+            {
+              "id": "rightmove",
+              "kind": "web",
+              "name": "Rightmove",
+              "category": "life",
+              "webURL": "https://www.rightmove.co.uk/",
+              "description": {
+                "en": "UK's biggest property portal for rentals",
+                "zh-Hans": "英国最大房产租售平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/rightmove.png"
+            },
+            {
+              "id": "spareroom",
+              "kind": "web",
+              "name": "SpareRoom",
+              "category": "life",
+              "webURL": "https://www.spareroom.co.uk/",
+              "description": {
+                "en": "UK flatshare site for rooms and flatmates",
+                "zh-Hans": "英国合租房源与室友平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/spareroom.png"
+            },
+            {
+              "id": "gov_uk",
+              "kind": "web",
+              "name": "GOV.UK",
+              "category": "learning",
+              "webURL": "https://www.gov.uk/",
+              "description": {
+                "en": "Official UK government services and visa info",
+                "zh-Hans": "英国政府服务与签证官网"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/gov_uk.png"
+            },
+            {
+              "id": "ucas",
+              "kind": "web",
+              "name": "UCAS",
+              "category": "learning",
+              "webURL": "https://www.ucas.com/",
+              "description": {
+                "en": "Official UK university application service",
+                "zh-Hans": "英国大学统一申请官网"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/ucas.png"
+            },
+            {
+              "id": "student_beans_uk",
+              "kind": "web",
+              "name": "Student Beans",
+              "category": "life",
+              "webURL": "https://www.studentbeans.com/uk",
+              "description": {
+                "en": "Verified student discounts at major brands",
+                "zh-Hans": "品牌学生折扣验证平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/student_beans_uk.png"
+            }
+          ]
+        },
+        {
+          "id": "au_sydney",
+          "countryCode": "AU",
+          "name": {
+            "zh-Hans": "澳洲 · 悉尼",
+            "en": "Australia · Sydney"
+          },
+          "country": {
+            "zh-Hans": "澳洲",
+            "en": "Australia"
+          },
+          "city": {
+            "zh-Hans": "悉尼",
+            "en": "Sydney"
+          },
+          "items": [
+            {
+              "id": "opal_travel",
+              "kind": "app",
+              "name": "Opal Travel",
+              "category": "transit",
+              "description": {
+                "en": "Top up and manage your NSW Opal card",
+                "zh-Hans": "新州Opal交通卡充值管理"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/opal_travel.png",
+              "registryID": "opal_travel"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "uber",
+              "kind": "app",
+              "name": "Uber",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing across the city",
+                "zh-Hans": "随叫随到的打车服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber.png",
+              "registryID": "uber"
+            },
+            {
+              "id": "uber_eats",
+              "kind": "app",
+              "name": "Uber Eats",
+              "category": "food_drink",
+              "description": {
+                "en": "Food delivery and pickup around the city",
+                "zh-Hans": "同城外卖与到店自取"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber_eats.png",
+              "registryID": "uber_eats"
+            },
+            {
+              "id": "doordash",
+              "kind": "app",
+              "name": "DoorDash",
+              "category": "food_drink",
+              "description": {
+                "en": "Restaurant delivery and grocery orders",
+                "zh-Hans": "餐厅外卖与生鲜配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/doordash.png",
+              "registryID": "doordash"
+            },
+            {
+              "id": "hungrypanda",
+              "kind": "app",
+              "name": "HungryPanda 熊猫外卖",
+              "category": "food_drink",
+              "description": {
+                "en": "Asian food and grocery delivery",
+                "zh-Hans": "海外华人中餐外卖与中超"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/hungrypanda.png",
+              "registryID": "hungrypanda"
+            },
+            {
+              "id": "woolworths",
+              "kind": "app",
+              "name": "Woolworths",
+              "category": "shopping",
+              "description": {
+                "en": "Shop Woolworths groceries and Rewards",
+                "zh-Hans": "澳洲Woolworths超市购物"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/woolworths.png",
+              "registryID": "woolworths"
+            },
+            {
+              "id": "coles",
+              "kind": "app",
+              "name": "Coles",
+              "category": "shopping",
+              "description": {
+                "en": "Shop Coles groceries, specials and Flybuys",
+                "zh-Hans": "澳洲Coles超市购物与特价"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/coles.png",
+              "registryID": "coles"
+            },
+            {
+              "id": "amazon",
+              "kind": "app",
+              "name": "Amazon",
+              "category": "shopping",
+              "description": {
+                "en": "Shop almost anything with fast delivery",
+                "zh-Hans": "网购百货与快速配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/amazon.png",
+              "registryID": "amazon"
+            },
+            {
+              "id": "commbank",
+              "kind": "app",
+              "name": "CommBank",
+              "category": "finance",
+              "description": {
+                "en": "Commonwealth Bank banking and payments",
+                "zh-Hans": "澳洲联邦银行手机银行"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/commbank.png",
+              "registryID": "commbank"
+            },
+            {
+              "id": "wise",
+              "kind": "app",
+              "name": "Wise",
+              "category": "finance",
+              "description": {
+                "en": "Send money abroad at the real exchange rate",
+                "zh-Hans": "低费率国际汇款与多币种账户"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/wise.png",
+              "registryID": "wise"
+            },
+            {
+              "id": "unidays",
+              "kind": "app",
+              "name": "UNiDAYS",
+              "category": "life",
+              "description": {
+                "en": "Verified student discounts at top brands",
+                "zh-Hans": "学生身份认证专属折扣"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/unidays.png",
+              "registryID": "unidays"
+            },
+            {
+              "id": "flatmates_au",
+              "kind": "web",
+              "name": "Flatmates.com.au",
+              "category": "life",
+              "webURL": "https://www.flatmates.com.au/",
+              "description": {
+                "en": "Australia's biggest share-house site",
+                "zh-Hans": "澳洲最大合租找室友网站"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/flatmates_au.png"
+            },
+            {
+              "id": "domain_au",
+              "kind": "web",
+              "name": "Domain",
+              "category": "life",
+              "webURL": "https://www.domain.com.au/",
+              "description": {
+                "en": "Australian property portal for renting",
+                "zh-Hans": "澳洲租房买房房产平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/domain_au.png"
+            },
+            {
+              "id": "realestate_au",
+              "kind": "web",
+              "name": "realestate.com.au",
+              "category": "life",
+              "webURL": "https://www.realestate.com.au/",
+              "description": {
+                "en": "Australia's largest real estate listings",
+                "zh-Hans": "澳洲最大房产房源网站"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/realestate_au.png"
+            },
+            {
+              "id": "study_australia",
+              "kind": "web",
+              "name": "Study Australia",
+              "category": "learning",
+              "webURL": "https://www.studyaustralia.gov.au/",
+              "description": {
+                "en": "Australian government portal for students",
+                "zh-Hans": "澳洲政府留学官方网站"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/study_australia.png"
+            }
+          ]
+        },
+        {
+          "id": "au_melbourne",
+          "countryCode": "AU",
+          "name": {
+            "zh-Hans": "澳洲 · 墨尔本",
+            "en": "Australia · Melbourne"
+          },
+          "country": {
+            "zh-Hans": "澳洲",
+            "en": "Australia"
+          },
+          "city": {
+            "zh-Hans": "墨尔本",
+            "en": "Melbourne"
+          },
+          "items": [
+            {
+              "id": "ptv",
+              "kind": "app",
+              "name": "PTV",
+              "category": "transit",
+              "description": {
+                "en": "Plan Melbourne trips and check myki balance",
+                "zh-Hans": "墨尔本公交出行与myki查询"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/ptv.png",
+              "registryID": "ptv"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "uber",
+              "kind": "app",
+              "name": "Uber",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing across the city",
+                "zh-Hans": "随叫随到的打车服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber.png",
+              "registryID": "uber"
+            },
+            {
+              "id": "uber_eats",
+              "kind": "app",
+              "name": "Uber Eats",
+              "category": "food_drink",
+              "description": {
+                "en": "Food delivery and pickup around the city",
+                "zh-Hans": "同城外卖与到店自取"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber_eats.png",
+              "registryID": "uber_eats"
+            },
+            {
+              "id": "doordash",
+              "kind": "app",
+              "name": "DoorDash",
+              "category": "food_drink",
+              "description": {
+                "en": "Restaurant delivery and grocery orders",
+                "zh-Hans": "餐厅外卖与生鲜配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/doordash.png",
+              "registryID": "doordash"
+            },
+            {
+              "id": "hungrypanda",
+              "kind": "app",
+              "name": "HungryPanda 熊猫外卖",
+              "category": "food_drink",
+              "description": {
+                "en": "Asian food and grocery delivery",
+                "zh-Hans": "海外华人中餐外卖与中超"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/hungrypanda.png",
+              "registryID": "hungrypanda"
+            },
+            {
+              "id": "woolworths",
+              "kind": "app",
+              "name": "Woolworths",
+              "category": "shopping",
+              "description": {
+                "en": "Shop Woolworths groceries and Rewards",
+                "zh-Hans": "澳洲Woolworths超市购物"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/woolworths.png",
+              "registryID": "woolworths"
+            },
+            {
+              "id": "coles",
+              "kind": "app",
+              "name": "Coles",
+              "category": "shopping",
+              "description": {
+                "en": "Shop Coles groceries, specials and Flybuys",
+                "zh-Hans": "澳洲Coles超市购物与特价"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/coles.png",
+              "registryID": "coles"
+            },
+            {
+              "id": "amazon",
+              "kind": "app",
+              "name": "Amazon",
+              "category": "shopping",
+              "description": {
+                "en": "Shop almost anything with fast delivery",
+                "zh-Hans": "网购百货与快速配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/amazon.png",
+              "registryID": "amazon"
+            },
+            {
+              "id": "commbank",
+              "kind": "app",
+              "name": "CommBank",
+              "category": "finance",
+              "description": {
+                "en": "Commonwealth Bank banking and payments",
+                "zh-Hans": "澳洲联邦银行手机银行"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/commbank.png",
+              "registryID": "commbank"
+            },
+            {
+              "id": "wise",
+              "kind": "app",
+              "name": "Wise",
+              "category": "finance",
+              "description": {
+                "en": "Send money abroad at the real exchange rate",
+                "zh-Hans": "低费率国际汇款与多币种账户"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/wise.png",
+              "registryID": "wise"
+            },
+            {
+              "id": "unidays",
+              "kind": "app",
+              "name": "UNiDAYS",
+              "category": "life",
+              "description": {
+                "en": "Verified student discounts at top brands",
+                "zh-Hans": "学生身份认证专属折扣"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/unidays.png",
+              "registryID": "unidays"
+            },
+            {
+              "id": "flatmates_au",
+              "kind": "web",
+              "name": "Flatmates.com.au",
+              "category": "life",
+              "webURL": "https://www.flatmates.com.au/",
+              "description": {
+                "en": "Australia's biggest share-house site",
+                "zh-Hans": "澳洲最大合租找室友网站"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/flatmates_au.png"
+            },
+            {
+              "id": "domain_au",
+              "kind": "web",
+              "name": "Domain",
+              "category": "life",
+              "webURL": "https://www.domain.com.au/",
+              "description": {
+                "en": "Australian property portal for renting",
+                "zh-Hans": "澳洲租房买房房产平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/domain_au.png"
+            },
+            {
+              "id": "realestate_au",
+              "kind": "web",
+              "name": "realestate.com.au",
+              "category": "life",
+              "webURL": "https://www.realestate.com.au/",
+              "description": {
+                "en": "Australia's largest real estate listings",
+                "zh-Hans": "澳洲最大房产房源网站"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/realestate_au.png"
+            },
+            {
+              "id": "study_australia",
+              "kind": "web",
+              "name": "Study Australia",
+              "category": "learning",
+              "webURL": "https://www.studyaustralia.gov.au/",
+              "description": {
+                "en": "Australian government portal for students",
+                "zh-Hans": "澳洲政府留学官方网站"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/study_australia.png"
+            }
+          ]
+        },
+        {
+          "id": "sg_singapore",
+          "countryCode": "SG",
+          "name": {
+            "zh-Hans": "新加坡",
+            "en": "Singapore"
+          },
+          "country": {
+            "zh-Hans": "新加坡",
+            "en": "Singapore"
+          },
+          "city": {
+            "zh-Hans": "新加坡",
+            "en": "Singapore"
+          },
+          "items": [
+            {
+              "id": "simplygo",
+              "kind": "app",
+              "name": "SimplyGo",
+              "category": "transit",
+              "description": {
+                "en": "Manage transit card, fares and top-ups",
+                "zh-Hans": "新加坡交通卡查询与充值"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/simplygo.png",
+              "registryID": "simplygo"
+            },
+            {
+              "id": "mytransport_sg",
+              "kind": "app",
+              "name": "MyTransport.SG",
+              "category": "transit",
+              "description": {
+                "en": "Bus arrivals, MRT status and traffic",
+                "zh-Hans": "新加坡巴士地铁与路况"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mytransport_sg.png",
+              "registryID": "mytransport_sg"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "grab",
+              "kind": "app",
+              "name": "Grab",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing, food and payments in SE Asia",
+                "zh-Hans": "东南亚打车外卖与支付"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/grab.png",
+              "registryID": "grab"
+            },
+            {
+              "id": "foodpanda",
+              "kind": "app",
+              "name": "foodpanda",
+              "category": "food_drink",
+              "description": {
+                "en": "Food and grocery delivery",
+                "zh-Hans": "外卖与生鲜配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/foodpanda.png",
+              "registryID": "foodpanda"
+            },
+            {
+              "id": "fairprice",
+              "kind": "app",
+              "name": "FairPrice",
+              "category": "shopping",
+              "description": {
+                "en": "FairPrice groceries, delivery and rewards",
+                "zh-Hans": "新加坡超市网购与会员优惠"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/fairprice.png",
+              "registryID": "fairprice"
+            },
+            {
+              "id": "shopee",
+              "kind": "app",
+              "name": "Shopee",
+              "category": "shopping",
+              "description": {
+                "en": "Singapore online marketplace with deals",
+                "zh-Hans": "新加坡电商购物平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/shopee.png",
+              "registryID": "shopee"
+            },
+            {
+              "id": "lazada",
+              "kind": "app",
+              "name": "Lazada",
+              "category": "shopping",
+              "description": {
+                "en": "Online shopping across SE Asia",
+                "zh-Hans": "东南亚电商购物"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/lazada.png",
+              "registryID": "lazada"
+            },
+            {
+              "id": "carousell",
+              "kind": "app",
+              "name": "Carousell",
+              "category": "shopping",
+              "description": {
+                "en": "Buy and sell secondhand goods locally",
+                "zh-Hans": "本地二手买卖平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/carousell.png",
+              "registryID": "carousell"
+            },
+            {
+              "id": "unidays",
+              "kind": "app",
+              "name": "UNiDAYS",
+              "category": "life",
+              "description": {
+                "en": "Verified student discounts at top brands",
+                "zh-Hans": "学生身份认证专属折扣"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/unidays.png",
+              "registryID": "unidays"
+            },
+            {
+              "id": "propertyguru_sg",
+              "kind": "web",
+              "name": "PropertyGuru",
+              "category": "life",
+              "webURL": "https://www.propertyguru.com.sg/",
+              "description": {
+                "en": "Singapore's leading property rental site",
+                "zh-Hans": "新加坡最大房产租售平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/propertyguru_sg.png"
+            },
+            {
+              "id": "ninetynine_co",
+              "kind": "web",
+              "name": "99.co",
+              "category": "life",
+              "webURL": "https://www.99.co/singapore/rent",
+              "description": {
+                "en": "Singapore rentals for HDB and condos",
+                "zh-Hans": "新加坡组屋公寓租房房源"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/ninetynine_co.png"
+            },
+            {
+              "id": "ica_student_pass",
+              "kind": "web",
+              "name": "ICA 学生准证",
+              "category": "learning",
+              "webURL": "https://www.ica.gov.sg/reside/STP",
+              "description": {
+                "en": "Singapore Student's Pass application guide",
+                "zh-Hans": "新加坡学生准证申请指引"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/ica_student_pass.png"
+            }
+          ]
+        },
+        {
+          "id": "hk_hongkong",
+          "countryCode": "HK",
+          "name": {
+            "zh-Hans": "中国香港",
+            "en": "Hong Kong SAR"
+          },
+          "country": {
+            "zh-Hans": "中国香港",
+            "en": "Hong Kong SAR"
+          },
+          "city": {
+            "zh-Hans": "中国香港",
+            "en": "Hong Kong SAR"
+          },
+          "items": [
+            {
+              "id": "mtr_mobile",
+              "kind": "app",
+              "name": "MTR Mobile",
+              "category": "transit",
+              "description": {
+                "en": "Hong Kong MTR routes, fares and live times",
+                "zh-Hans": "香港港铁路线票价与班次"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mtr_mobile.png",
+              "registryID": "mtr_mobile"
+            },
+            {
+              "id": "octopus",
+              "kind": "app",
+              "name": "Octopus 八達通",
+              "category": "finance",
+              "description": {
+                "en": "Top up and manage your Octopus card",
+                "zh-Hans": "八达通卡充值与余额管理"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/octopus.png",
+              "registryID": "octopus"
+            },
+            {
+              "id": "hkemobility",
+              "kind": "app",
+              "name": "HKeMobility",
+              "category": "transit",
+              "description": {
+                "en": "Official HK routes, traffic and parking",
+                "zh-Hans": "香港官方出行与交通资讯"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/hkemobility.png",
+              "registryID": "hkemobility"
+            },
+            {
+              "id": "google_maps",
+              "kind": "app",
+              "name": "Google Maps",
+              "category": "transit",
+              "description": {
+                "en": "Navigation, transit routes & nearby places",
+                "zh-Hans": "导航、公交路线与周边地点"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/google_maps.png",
+              "registryID": "google_maps"
+            },
+            {
+              "id": "uber",
+              "kind": "app",
+              "name": "Uber",
+              "category": "transit",
+              "description": {
+                "en": "Ride-hailing across the city",
+                "zh-Hans": "随叫随到的打车服务"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/uber.png",
+              "registryID": "uber"
+            },
+            {
+              "id": "openrice",
+              "kind": "app",
+              "name": "OpenRice 開飯喇",
+              "category": "food_drink",
+              "description": {
+                "en": "HK restaurant reviews, bookings, takeaway",
+                "zh-Hans": "香港餐厅点评订座与外卖"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/openrice.png",
+              "registryID": "openrice"
+            },
+            {
+              "id": "foodpanda",
+              "kind": "app",
+              "name": "foodpanda",
+              "category": "food_drink",
+              "description": {
+                "en": "Food and grocery delivery",
+                "zh-Hans": "外卖与生鲜配送"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/foodpanda.png",
+              "registryID": "foodpanda"
+            },
+            {
+              "id": "hktvmall",
+              "kind": "app",
+              "name": "HKTVmall",
+              "category": "shopping",
+              "description": {
+                "en": "Hong Kong online mall for daily goods",
+                "zh-Hans": "香港线上商城日用百货"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/hktvmall.png",
+              "registryID": "hktvmall"
+            },
+            {
+              "id": "carousell",
+              "kind": "app",
+              "name": "Carousell",
+              "category": "shopping",
+              "description": {
+                "en": "Buy and sell secondhand goods locally",
+                "zh-Hans": "本地二手买卖平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/carousell.png",
+              "registryID": "carousell"
+            },
+            {
+              "id": "alipay_hk",
+              "kind": "app",
+              "name": "AlipayHK",
+              "category": "finance",
+              "description": {
+                "en": "Hong Kong wallet for payments and transfers",
+                "zh-Hans": "香港移动钱包支付转账"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/alipay_hk.png",
+              "registryID": "alipay_hk"
+            },
+            {
+              "id": "whatsapp",
+              "kind": "app",
+              "name": "WhatsApp",
+              "category": "social",
+              "description": {
+                "en": "Free messaging and calls worldwide",
+                "zh-Hans": "全球免费聊天与通话"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/whatsapp.png",
+              "registryID": "whatsapp"
+            },
+            {
+              "id": "klook",
+              "kind": "app",
+              "name": "Klook 客路",
+              "category": "life",
+              "description": {
+                "en": "Book tours, tickets and local activities",
+                "zh-Hans": "预订玩乐门票与当地体验"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/klook.png",
+              "registryID": "klook"
+            },
+            {
+              "id": "hse28",
+              "kind": "web",
+              "name": "28Hse 二十八樓",
+              "category": "life",
+              "webURL": "https://www.28hse.com/",
+              "description": {
+                "en": "Hong Kong property portal for rentals",
+                "zh-Hans": "香港租盘买卖搵楼平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/hse28.png"
+            },
+            {
+              "id": "spacious",
+              "kind": "web",
+              "name": "Spacious 千居",
+              "category": "life",
+              "webURL": "https://www.spacious.hk/",
+              "description": {
+                "en": "Hong Kong property search and market data",
+                "zh-Hans": "香港房产搜索与成交数据"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/spacious.png"
+            },
+            {
+              "id": "house730",
+              "kind": "web",
+              "name": "House730",
+              "category": "life",
+              "webURL": "https://www.house730.com/",
+              "description": {
+                "en": "Hong Kong rental and sale listings",
+                "zh-Hans": "香港租售房源搵楼平台"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/house730.png"
+            },
+            {
+              "id": "govhk",
+              "kind": "web",
+              "name": "GovHK 香港政府一站通",
+              "category": "learning",
+              "webURL": "https://www.gov.hk/en/residents/",
+              "description": {
+                "en": "Hong Kong government resident services",
+                "zh-Hans": "香港政府一站式服务网站"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/govhk.png"
+            },
+            {
+              "id": "geoexpat",
+              "kind": "web",
+              "name": "GeoExpat",
+              "category": "life",
+              "webURL": "https://www.geoexpat.com/",
+              "description": {
+                "en": "Hong Kong expat forums and classifieds",
+                "zh-Hans": "香港外籍人士论坛与分类广告"
+              },
+              "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/geoexpat.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

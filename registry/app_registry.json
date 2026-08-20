@@ -5521,5 +5521,1891 @@
     "launchStatus": "tryOpen",
     "iconURL": null,
     "availableOnPlay": true
+  },
+  {
+    "id": "tfl_go",
+    "canonicalName": "TfL Go",
+    "localizedNames": {
+      "en": "TfL Go"
+    },
+    "aliases": [
+      "TfL Go",
+      "TfL",
+      "Transport for London",
+      "伦敦交通"
+    ],
+    "category": "transit",
+    "regions": [
+      "GB",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GB": "uk.gov.tfl.gotfl",
+      "GLOBAL": "uk.gov.tfl.gotfl"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://tfl.gov.uk/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/tfl_go.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "citymapper",
+    "canonicalName": "Citymapper",
+    "localizedNames": {
+      "en": "Citymapper"
+    },
+    "aliases": [
+      "Citymapper",
+      "City Mapper"
+    ],
+    "category": "transit",
+    "regions": [
+      "GB",
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.citymapper.app.release",
+      "US": "com.citymapper.app.release",
+      "GLOBAL": "com.citymapper.app.release"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://citymapper.com/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/citymapper.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "trainline",
+    "canonicalName": "Trainline",
+    "localizedNames": {
+      "en": "Trainline"
+    },
+    "aliases": [
+      "Trainline",
+      "The Trainline",
+      "thetrainline"
+    ],
+    "category": "transit",
+    "regions": [
+      "GB",
+      "FR",
+      "DE",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.thetrainline",
+      "FR": "com.thetrainline",
+      "DE": "com.thetrainline",
+      "GLOBAL": "com.thetrainline"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.thetrainline.com/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/trainline.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "deliveroo",
+    "canonicalName": "Deliveroo",
+    "localizedNames": {
+      "en": "Deliveroo"
+    },
+    "aliases": [
+      "Deliveroo",
+      "户户送",
+      "戶戶送"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "GB",
+      "FR",
+      "IT",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.deliveroo.orderapp",
+      "FR": "com.deliveroo.orderapp",
+      "IT": "com.deliveroo.orderapp",
+      "GLOBAL": "com.deliveroo.orderapp"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://deliveroo.co.uk/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/deliveroo.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "tesco",
+    "canonicalName": "Tesco",
+    "localizedNames": {
+      "en": "Tesco"
+    },
+    "aliases": [
+      "Tesco",
+      "Tesco Groceries",
+      "Tesco Clubcard"
+    ],
+    "category": "shopping",
+    "regions": [
+      "GB",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.tesco.grocery.view",
+      "GLOBAL": "com.tesco.grocery.view"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.tesco.com/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/tesco.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "revolut",
+    "canonicalName": "Revolut",
+    "localizedNames": {
+      "en": "Revolut"
+    },
+    "aliases": [
+      "Revolut",
+      "Revolut Bank"
+    ],
+    "category": "finance",
+    "regions": [
+      "GB",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.revolut.revolut",
+      "GLOBAL": "com.revolut.revolut"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.revolut.com/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/revolut.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "wise",
+    "canonicalName": "Wise",
+    "localizedNames": {
+      "en": "Wise"
+    },
+    "aliases": [
+      "Wise",
+      "TransferWise",
+      "Wise Transfer"
+    ],
+    "category": "finance",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.transferwise.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://wise.com/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/wise.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "unidays",
+    "canonicalName": "UNiDAYS",
+    "localizedNames": {
+      "en": "UNiDAYS"
+    },
+    "aliases": [
+      "UNiDAYS",
+      "Unidays",
+      "MyUnidays"
+    ],
+    "category": "life",
+    "regions": [
+      "GB",
+      "US",
+      "CA",
+      "AU",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.myunidays",
+      "US": "com.myunidays",
+      "CA": "com.myunidays",
+      "AU": "com.myunidays",
+      "GLOBAL": "com.myunidays"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.myunidays.com/",
+    "keywords": [
+      "life",
+      "local",
+      "service",
+      "生活",
+      "本地",
+      "服务"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/unidays.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "opal_travel",
+    "canonicalName": "Opal Travel",
+    "localizedNames": {
+      "en": "Opal Travel"
+    },
+    "aliases": [
+      "Opal Travel",
+      "Opal",
+      "Opal Card",
+      "澳宝卡"
+    ],
+    "category": "transit",
+    "regions": [
+      "AU",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "AU": "au.com.opal.travel",
+      "GLOBAL": "au.com.opal.travel"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.opal.com.au/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/opal_travel.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "ptv",
+    "canonicalName": "PTV",
+    "localizedNames": {
+      "en": "PTV"
+    },
+    "aliases": [
+      "PTV",
+      "Public Transport Victoria",
+      "myki"
+    ],
+    "category": "transit",
+    "regions": [
+      "AU",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "AU": "au.gov.vic.ptv",
+      "GLOBAL": "au.gov.vic.ptv"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://transport.vic.gov.au/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/ptv.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "woolworths",
+    "canonicalName": "Woolworths",
+    "localizedNames": {
+      "en": "Woolworths"
+    },
+    "aliases": [
+      "Woolworths",
+      "Woolies",
+      "大W"
+    ],
+    "category": "shopping",
+    "regions": [
+      "AU",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "AU": "com.woolworths",
+      "GLOBAL": "com.woolworths"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.woolworths.com.au/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/woolworths.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "coles",
+    "canonicalName": "Coles",
+    "localizedNames": {
+      "en": "Coles"
+    },
+    "aliases": [
+      "Coles",
+      "Coles Supermarkets",
+      "Coles Online"
+    ],
+    "category": "shopping",
+    "regions": [
+      "AU",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "AU": "com.coles.android.shopmate",
+      "GLOBAL": "com.coles.android.shopmate"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.coles.com.au/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/coles.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "commbank",
+    "canonicalName": "CommBank",
+    "localizedNames": {
+      "en": "CommBank"
+    },
+    "aliases": [
+      "CommBank",
+      "CBA",
+      "Commonwealth Bank",
+      "澳洲联邦银行"
+    ],
+    "category": "finance",
+    "regions": [
+      "AU",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "AU": "com.commbank.netbank",
+      "GLOBAL": "com.commbank.netbank"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.commbank.com.au/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/commbank.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "hungrypanda",
+    "canonicalName": "HungryPanda",
+    "localizedNames": {
+      "en": "HungryPanda",
+      "zh-Hans": "熊猫外卖"
+    },
+    "aliases": [
+      "HungryPanda",
+      "熊猫外卖",
+      "熊貓外賣"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "AU",
+      "GB",
+      "US",
+      "CA",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "AU": "com.hungrypanda.waimai",
+      "GB": "com.hungrypanda.waimai",
+      "US": "com.hungrypanda.waimai",
+      "CA": "com.hungrypanda.waimai",
+      "GLOBAL": "com.hungrypanda.waimai"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.hungrypanda.co/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/hungrypanda.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mtr_mobile",
+    "canonicalName": "MTR Mobile",
+    "localizedNames": {
+      "en": "MTR Mobile",
+      "zh-Hans": "港铁"
+    },
+    "aliases": [
+      "MTR Mobile",
+      "港铁",
+      "MTR",
+      "港鐵"
+    ],
+    "category": "transit",
+    "regions": [
+      "HK",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "com.mtr.mtrmobile",
+      "GLOBAL": "com.mtr.mtrmobile"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.mtr.com.hk/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mtr_mobile.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "octopus",
+    "canonicalName": "Octopus",
+    "localizedNames": {
+      "en": "Octopus",
+      "zh-Hans": "八达通"
+    },
+    "aliases": [
+      "Octopus",
+      "八达通",
+      "Octopus Card",
+      "八達通"
+    ],
+    "category": "finance",
+    "regions": [
+      "HK",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "com.octopuscards.nfc_reader",
+      "GLOBAL": "com.octopuscards.nfc_reader"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.octopus.com.hk/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/octopus.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "hkemobility",
+    "canonicalName": "HKeMobility",
+    "localizedNames": {
+      "en": "HKeMobility",
+      "zh-Hans": "香港出行易"
+    },
+    "aliases": [
+      "HKeMobility",
+      "香港出行易",
+      "出行易"
+    ],
+    "category": "transit",
+    "regions": [
+      "HK",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "com.hketransport",
+      "GLOBAL": "com.hketransport"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.hkemobility.gov.hk/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/hkemobility.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "openrice",
+    "canonicalName": "OpenRice",
+    "localizedNames": {
+      "en": "OpenRice",
+      "zh-Hans": "开饭喇"
+    },
+    "aliases": [
+      "OpenRice",
+      "开饭喇",
+      "Open Rice",
+      "開飯喇"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "HK",
+      "TW",
+      "SG",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "com.openrice.android",
+      "TW": "com.openrice.android",
+      "SG": "com.openrice.android",
+      "GLOBAL": "com.openrice.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.openrice.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/openrice.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "foodpanda",
+    "canonicalName": "foodpanda",
+    "localizedNames": {
+      "en": "foodpanda"
+    },
+    "aliases": [
+      "foodpanda",
+      "Food Panda"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "HK",
+      "SG",
+      "TW",
+      "TH",
+      "PH",
+      "MY",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "com.global.foodpanda.android",
+      "SG": "com.global.foodpanda.android",
+      "TW": "com.global.foodpanda.android",
+      "TH": "com.global.foodpanda.android",
+      "PH": "com.global.foodpanda.android",
+      "MY": "com.global.foodpanda.android",
+      "GLOBAL": "com.global.foodpanda.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.foodpanda.hk/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/foodpanda.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "hktvmall",
+    "canonicalName": "HKTVmall",
+    "localizedNames": {
+      "en": "HKTVmall"
+    },
+    "aliases": [
+      "HKTVmall",
+      "HKTV Mall",
+      "HKTV"
+    ],
+    "category": "shopping",
+    "regions": [
+      "HK",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "com.hktv.android.hktvmall",
+      "GLOBAL": "com.hktv.android.hktvmall"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.hktvmall.com/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/hktvmall.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "carousell",
+    "canonicalName": "Carousell",
+    "localizedNames": {
+      "en": "Carousell"
+    },
+    "aliases": [
+      "Carousell",
+      "旋转拍卖",
+      "旋轉拍賣"
+    ],
+    "category": "shopping",
+    "regions": [
+      "HK",
+      "SG",
+      "MY",
+      "PH",
+      "TW",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "com.thecarousell.Carousell",
+      "SG": "com.thecarousell.Carousell",
+      "MY": "com.thecarousell.Carousell",
+      "PH": "com.thecarousell.Carousell",
+      "TW": "com.thecarousell.Carousell",
+      "GLOBAL": "com.thecarousell.Carousell"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.carousell.com.hk/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/carousell.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "alipay_hk",
+    "canonicalName": "AlipayHK",
+    "localizedNames": {
+      "en": "AlipayHK",
+      "zh-Hans": "支付宝香港"
+    },
+    "aliases": [
+      "AlipayHK",
+      "支付宝香港",
+      "支付寶香港",
+      "支付寶HK"
+    ],
+    "category": "finance",
+    "regions": [
+      "HK",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "hk.alipay.wallet",
+      "GLOBAL": "hk.alipay.wallet"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.alipayhk.com/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/alipay_hk.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "klook",
+    "canonicalName": "Klook",
+    "localizedNames": {
+      "en": "Klook",
+      "zh-Hans": "客路"
+    },
+    "aliases": [
+      "Klook",
+      "客路",
+      "客路旅行"
+    ],
+    "category": "life",
+    "regions": [
+      "HK",
+      "SG",
+      "TW",
+      "JP",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "HK": "com.klook",
+      "SG": "com.klook",
+      "TW": "com.klook",
+      "JP": "com.klook",
+      "GLOBAL": "com.klook"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.klook.com/",
+    "keywords": [
+      "life",
+      "local",
+      "service",
+      "生活",
+      "本地",
+      "服务"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/klook.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "simplygo",
+    "canonicalName": "SimplyGo",
+    "localizedNames": {
+      "en": "SimplyGo"
+    },
+    "aliases": [
+      "SimplyGo",
+      "TransitLink"
+    ],
+    "category": "transit",
+    "regions": [
+      "SG",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "SG": "sg.com.transitlink",
+      "GLOBAL": "sg.com.transitlink"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://simplygo.com.sg/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/simplygo.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mytransport_sg",
+    "canonicalName": "MyTransport.SG",
+    "localizedNames": {
+      "en": "MyTransport.SG"
+    },
+    "aliases": [
+      "MyTransport.SG",
+      "MyTransport",
+      "MyTransportSG"
+    ],
+    "category": "transit",
+    "regions": [
+      "SG",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "SG": "sg.gov.lta.mytransportsg",
+      "GLOBAL": "sg.gov.lta.mytransportsg"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.mytransport.sg/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mytransport_sg.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "fairprice",
+    "canonicalName": "FairPrice",
+    "localizedNames": {
+      "en": "FairPrice"
+    },
+    "aliases": [
+      "FairPrice",
+      "NTUC FairPrice",
+      "NTUC",
+      "职总平价"
+    ],
+    "category": "shopping",
+    "regions": [
+      "SG",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "SG": "com.fairprice.mcomapp",
+      "GLOBAL": "com.fairprice.mcomapp"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.fairprice.com.sg/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/fairprice.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "shopee",
+    "canonicalName": "Shopee",
+    "localizedNames": {
+      "en": "Shopee"
+    },
+    "aliases": [
+      "Shopee",
+      "虾皮",
+      "蝦皮"
+    ],
+    "category": "shopping",
+    "regions": [
+      "SG",
+      "MY",
+      "TH",
+      "PH",
+      "VN",
+      "ID",
+      "TW",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "SG": "com.shopee.sg",
+      "MY": "com.shopee.sg",
+      "TH": "com.shopee.sg",
+      "PH": "com.shopee.sg",
+      "VN": "com.shopee.sg",
+      "ID": "com.shopee.sg",
+      "TW": "com.shopee.sg",
+      "GLOBAL": "com.shopee.sg"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://shopee.sg/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/shopee.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "lazada",
+    "canonicalName": "Lazada",
+    "localizedNames": {
+      "en": "Lazada"
+    },
+    "aliases": [
+      "Lazada",
+      "LazMall",
+      "RedMart"
+    ],
+    "category": "shopping",
+    "regions": [
+      "SG",
+      "MY",
+      "TH",
+      "PH",
+      "VN",
+      "ID",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "SG": "com.lazada.android",
+      "MY": "com.lazada.android",
+      "TH": "com.lazada.android",
+      "PH": "com.lazada.android",
+      "VN": "com.lazada.android",
+      "ID": "com.lazada.android",
+      "GLOBAL": "com.lazada.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.lazada.sg/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/lazada.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "presto",
+    "canonicalName": "PRESTO",
+    "localizedNames": {
+      "en": "PRESTO"
+    },
+    "aliases": [
+      "PRESTO",
+      "PRESTO Card",
+      "Presto卡"
+    ],
+    "category": "transit",
+    "regions": [
+      "CA",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "CA": "com.metrolinx.presto.android.consumerapp",
+      "GLOBAL": "com.metrolinx.presto.android.consumerapp"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.prestocard.ca/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/presto.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "fantuan",
+    "canonicalName": "Fantuan",
+    "localizedNames": {
+      "en": "Fantuan",
+      "zh-Hans": "饭团外卖"
+    },
+    "aliases": [
+      "Fantuan",
+      "饭团外卖",
+      "饭团"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "CA",
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "CA": "com.ca.fantuan.customer",
+      "US": "com.ca.fantuan.customer",
+      "GLOBAL": "com.ca.fantuan.customer"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.fantuanorder.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/fantuan.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "instacart",
+    "canonicalName": "Instacart",
+    "localizedNames": {
+      "en": "Instacart"
+    },
+    "aliases": [
+      "Instacart",
+      "Insta Cart"
+    ],
+    "category": "shopping",
+    "regions": [
+      "US",
+      "CA",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.instacart.client",
+      "CA": "com.instacart.client",
+      "GLOBAL": "com.instacart.client"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.instacart.com/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/instacart.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "td_canada",
+    "canonicalName": "TD Canada Trust",
+    "localizedNames": {
+      "en": "TD Canada Trust",
+      "zh-Hans": "道明加拿大信托"
+    },
+    "aliases": [
+      "TD Canada Trust",
+      "道明加拿大信托",
+      "TD",
+      "道明银行"
+    ],
+    "category": "finance",
+    "regions": [
+      "CA",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "CA": "com.td",
+      "GLOBAL": "com.td"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.td.com/ca/en/personal-banking",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/td_canada.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "transit_app",
+    "canonicalName": "Transit",
+    "localizedNames": {
+      "en": "Transit"
+    },
+    "aliases": [
+      "Transit",
+      "Transit App",
+      "TransitApp"
+    ],
+    "category": "transit",
+    "regions": [
+      "CA",
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "CA": "com.thetransitapp.droid",
+      "US": "com.thetransitapp.droid",
+      "GLOBAL": "com.thetransitapp.droid"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://transitapp.com/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/transit_app.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "evo",
+    "canonicalName": "Evo Car Share",
+    "localizedNames": {
+      "en": "Evo Car Share"
+    },
+    "aliases": [
+      "Evo Car Share",
+      "Evo",
+      "EvoCarShare"
+    ],
+    "category": "transit",
+    "regions": [
+      "CA",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "CA": "com.vulog.android.carsharing.vancouver",
+      "GLOBAL": "com.vulog.android.carsharing.vancouver"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.evo.ca/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/evo.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "too_good_to_go",
+    "canonicalName": "Too Good To Go",
+    "localizedNames": {
+      "en": "Too Good To Go"
+    },
+    "aliases": [
+      "Too Good To Go",
+      "TGTG",
+      "TooGoodToGo"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "GB",
+      "FR",
+      "DE",
+      "US",
+      "CA",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.app.tgtg",
+      "FR": "com.app.tgtg",
+      "DE": "com.app.tgtg",
+      "US": "com.app.tgtg",
+      "CA": "com.app.tgtg",
+      "GLOBAL": "com.app.tgtg"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.toogoodtogo.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/too_good_to_go.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mbta_go",
+    "canonicalName": "MBTA Go",
+    "localizedNames": {
+      "en": "MBTA Go"
+    },
+    "aliases": [
+      "MBTA Go",
+      "MBTAGo"
+    ],
+    "category": "transit",
+    "regions": [
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.mbta.tid.mbta_app",
+      "GLOBAL": "com.mbta.tid.mbta_app"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.mbta.com/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mbta_go.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mbta_mticket",
+    "canonicalName": "MBTA mTicket",
+    "localizedNames": {
+      "en": "MBTA mTicket"
+    },
+    "aliases": [
+      "MBTA mTicket",
+      "mTicket",
+      "MBTA Ticket"
+    ],
+    "category": "transit",
+    "regions": [
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.mbta.mobileapp",
+      "GLOBAL": "com.mbta.mobileapp"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.mbta.com/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mbta_mticket.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mta_official",
+    "canonicalName": "MTA",
+    "localizedNames": {
+      "en": "MTA"
+    },
+    "aliases": [
+      "MTA",
+      "MYmta",
+      "MTA App",
+      "纽约MTA",
+      "大都会运输署"
+    ],
+    "category": "transit",
+    "regions": [
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "info.mta.mymta",
+      "GLOBAL": "info.mta.mymta"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.mta.info/",
+    "keywords": [
+      "transit",
+      "map",
+      "travel",
+      "commute",
+      "出行",
+      "交通",
+      "公交",
+      "地铁",
+      "导航"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mta_official.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "resy",
+    "canonicalName": "Resy",
+    "localizedNames": {
+      "en": "Resy"
+    },
+    "aliases": [
+      "Resy",
+      "Resy App"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "US",
+      "GB",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.resy.android.prod",
+      "GB": "com.resy.android.prod",
+      "GLOBAL": "com.resy.android.prod"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://resy.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/resy.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "opentable",
+    "canonicalName": "OpenTable",
+    "localizedNames": {
+      "en": "OpenTable"
+    },
+    "aliases": [
+      "OpenTable",
+      "Open Table"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "US",
+      "GB",
+      "CA",
+      "AU",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.opentable",
+      "GB": "com.opentable",
+      "CA": "com.opentable",
+      "AU": "com.opentable",
+      "GLOBAL": "com.opentable"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.opentable.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/opentable.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "weee",
+    "canonicalName": "Weee!",
+    "localizedNames": {
+      "en": "Weee!"
+    },
+    "aliases": [
+      "Weee!",
+      "Weee",
+      "SayWeee"
+    ],
+    "category": "shopping",
+    "regions": [
+      "US",
+      "CA",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.sayweee.weee",
+      "CA": "com.sayweee.weee",
+      "GLOBAL": "com.sayweee.weee"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.weee.com/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/weee.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "target",
+    "canonicalName": "Target",
+    "localizedNames": {
+      "en": "Target"
+    },
+    "aliases": [
+      "Target",
+      "塔吉特",
+      "Target Circle"
+    ],
+    "category": "shopping",
+    "regions": [
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.target.ui",
+      "GLOBAL": "com.target.ui"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.target.com/",
+    "keywords": [
+      "shopping",
+      "store",
+      "grocery",
+      "ecommerce",
+      "购物",
+      "商城",
+      "超市",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/target.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "chase",
+    "canonicalName": "Chase",
+    "localizedNames": {
+      "en": "Chase"
+    },
+    "aliases": [
+      "Chase",
+      "Chase Bank",
+      "大通银行"
+    ],
+    "category": "finance",
+    "regions": [
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.chase.sig.android",
+      "GLOBAL": "com.chase.sig.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.chase.com/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/chase.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "bank_of_america",
+    "canonicalName": "Bank of America",
+    "localizedNames": {
+      "en": "Bank of America"
+    },
+    "aliases": [
+      "Bank of America",
+      "BofA",
+      "BoA",
+      "美国银行"
+    ],
+    "category": "finance",
+    "regions": [
+      "US",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.infonow.bofa",
+      "GLOBAL": "com.infonow.bofa"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.bankofamerica.com/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/bank_of_america.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "galapro",
+    "canonicalName": "GalaPro",
+    "localizedNames": {
+      "en": "GalaPro"
+    },
+    "aliases": [
+      "GalaPro",
+      "Gala Pro"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "US",
+      "GB",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.galapro.app",
+      "GB": "com.galapro.app",
+      "GLOBAL": "com.galapro.app"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://galapro.com/",
+    "keywords": [
+      "entertainment",
+      "ticket",
+      "show",
+      "娱乐",
+      "门票",
+      "演出"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/galapro.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "duo_mobile",
+    "canonicalName": "Duo Mobile",
+    "localizedNames": {
+      "en": "Duo Mobile"
+    },
+    "aliases": [
+      "Duo Mobile",
+      "Cisco Duo",
+      "Duo Security"
+    ],
+    "category": "tools",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.duosecurity.duomobile"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://duo.com/",
+    "keywords": [
+      "tool",
+      "utility",
+      "security",
+      "工具",
+      "安全"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/duo_mobile.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "ticketmaster",
+    "canonicalName": "Ticketmaster",
+    "localizedNames": {
+      "en": "Ticketmaster"
+    },
+    "aliases": [
+      "Ticketmaster",
+      "Ticket Master"
+    ],
+    "category": "entertainment",
+    "regions": [
+      "US",
+      "CA",
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "US": "com.ticketmaster.mobile.android.na",
+      "CA": "com.ticketmaster.mobile.android.na",
+      "GLOBAL": "com.ticketmaster.mobile.android.na"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.ticketmaster.com/",
+    "keywords": [
+      "entertainment",
+      "ticket",
+      "show",
+      "娱乐",
+      "门票",
+      "演出"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/ticketmaster.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "splitwise",
+    "canonicalName": "Splitwise",
+    "localizedNames": {
+      "en": "Splitwise"
+    },
+    "aliases": [
+      "Splitwise",
+      "Split Wise",
+      "AA记账",
+      "分账"
+    ],
+    "category": "finance",
+    "regions": [
+      "GLOBAL"
+    ],
+    "playStorePackageNames": {
+      "GLOBAL": "com.Splitwise.SplitwiseMobile"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.splitwise.com/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/splitwise.png",
+    "availableOnPlay": true
   }
 ]
