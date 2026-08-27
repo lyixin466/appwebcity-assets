@@ -7407,5 +7407,1723 @@
     "launchStatus": "tryOpen",
     "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/splitwise.png",
     "availableOnPlay": true
+  },
+  {
+    "id": "bee_network",
+    "canonicalName": "Bee Network",
+    "localizedNames": {
+      "en": "Bee Network"
+    },
+    "aliases": [
+      "Bee Network",
+      "BeeNetwork",
+      "TfGM"
+    ],
+    "category": "transit",
+    "regions": [
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.tfgm.beenetwork"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://tfgm.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/bee_network.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "monzo",
+    "canonicalName": "Monzo",
+    "localizedNames": {
+      "en": "Monzo"
+    },
+    "aliases": [
+      "Monzo",
+      "Monzo Bank"
+    ],
+    "category": "finance",
+    "regions": [
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "GB": "co.uk.getmondo"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://monzo.com/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/monzo.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "lothian_buses",
+    "canonicalName": "Lothian Buses",
+    "localizedNames": {
+      "en": "Lothian Buses"
+    },
+    "aliases": [
+      "Lothian Buses",
+      "Lothian",
+      "Bus & Tram",
+      "Edinburgh Trams"
+    ],
+    "category": "transit",
+    "regions": [
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "GB": "travel.ticketless.app.lothian"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.lothianbuses.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/lothian_buses.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "scotrail",
+    "canonicalName": "ScotRail",
+    "localizedNames": {
+      "en": "ScotRail"
+    },
+    "aliases": [
+      "ScotRail",
+      "ScotRail Trains"
+    ],
+    "category": "transit",
+    "regions": [
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "GB": "uk.co.scotrail.app"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.scotrail.co.uk/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/scotrail.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "first_bus",
+    "canonicalName": "First Bus",
+    "localizedNames": {
+      "en": "First Bus"
+    },
+    "aliases": [
+      "First Bus",
+      "FirstBus",
+      "First Group"
+    ],
+    "category": "transit",
+    "regions": [
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.firstgroup.first.bus"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.firstbus.co.uk/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/first_bus.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "tfwm",
+    "canonicalName": "TfWM",
+    "localizedNames": {
+      "en": "TfWM"
+    },
+    "aliases": [
+      "TfWM",
+      "Transport for West Midlands"
+    ],
+    "category": "transit",
+    "regions": [
+      "GB"
+    ],
+    "playStorePackageNames": {
+      "GB": "com.wmca.tfwmapp"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.tfwm.org.uk/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/tfwm.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "navitime",
+    "canonicalName": "NAVITIME",
+    "localizedNames": {
+      "en": "NAVITIME"
+    },
+    "aliases": [
+      "NAVITIME",
+      "ナビタイム"
+    ],
+    "category": "transit",
+    "regions": [
+      "JP"
+    ],
+    "playStorePackageNames": {
+      "JP": "com.navitime.local.navitime"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.navitime.co.jp/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/navitime.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "suica",
+    "canonicalName": "Mobile Suica",
+    "localizedNames": {
+      "en": "Mobile Suica",
+      "zh-Hans": "西瓜卡"
+    },
+    "aliases": [
+      "Suica",
+      "Mobile Suica",
+      "モバイルSuica"
+    ],
+    "category": "transit",
+    "regions": [
+      "JP"
+    ],
+    "playStorePackageNames": {
+      "JP": "com.mobilesuica.msb.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.jreast.co.jp/mobilesuica/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/suica.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "go_taxi",
+    "canonicalName": "GO",
+    "localizedNames": {
+      "en": "GO"
+    },
+    "aliases": [
+      "GO taxi",
+      "GOタクシー",
+      "JapanTaxi"
+    ],
+    "category": "transit",
+    "regions": [
+      "JP"
+    ],
+    "playStorePackageNames": {
+      "JP": "com.dena.automotive.taxibell"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://go.mo-t.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/go_taxi.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "paypay",
+    "canonicalName": "PayPay",
+    "localizedNames": {
+      "en": "PayPay"
+    },
+    "aliases": [
+      "PayPay",
+      "ペイペイ"
+    ],
+    "category": "finance",
+    "regions": [
+      "JP"
+    ],
+    "playStorePackageNames": {
+      "JP": "jp.ne.paypay.android.app"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://paypay.ne.jp/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/paypay.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "rakuten",
+    "canonicalName": "Rakuten",
+    "localizedNames": {
+      "en": "Rakuten",
+      "zh-Hans": "乐天市场"
+    },
+    "aliases": [
+      "Rakuten",
+      "楽天市場",
+      "楽天"
+    ],
+    "category": "shopping",
+    "regions": [
+      "JP"
+    ],
+    "playStorePackageNames": {
+      "JP": "jp.co.rakuten.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.rakuten.co.jp/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/rakuten.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mercari",
+    "canonicalName": "Mercari",
+    "localizedNames": {
+      "en": "Mercari"
+    },
+    "aliases": [
+      "Mercari",
+      "メルカリ",
+      "煤炉"
+    ],
+    "category": "shopping",
+    "regions": [
+      "JP"
+    ],
+    "playStorePackageNames": {
+      "JP": "com.kouzoh.mercari"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://jp.mercari.com/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mercari.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "naver_map",
+    "canonicalName": "Naver Map",
+    "localizedNames": {
+      "en": "Naver Map"
+    },
+    "aliases": [
+      "Naver Map",
+      "NAVER Maps",
+      "네이버 지도"
+    ],
+    "category": "transit",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.nhn.android.nmap"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://map.naver.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/naver_map.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "kakaomap",
+    "canonicalName": "KakaoMap",
+    "localizedNames": {
+      "en": "KakaoMap"
+    },
+    "aliases": [
+      "KakaoMap",
+      "Kakao Map",
+      "카카오맵"
+    ],
+    "category": "transit",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "net.daum.android.map"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://map.kakao.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/kakaomap.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "kakao_t",
+    "canonicalName": "Kakao T",
+    "localizedNames": {
+      "en": "Kakao T"
+    },
+    "aliases": [
+      "Kakao T",
+      "KakaoT",
+      "Kakao Taxi",
+      "카카오 T"
+    ],
+    "category": "transit",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.kakao.taxi"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://kakaot.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/kakao_t.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "subway_korea",
+    "canonicalName": "Subway Korea",
+    "localizedNames": {
+      "en": "Subway Korea"
+    },
+    "aliases": [
+      "Subway Korea",
+      "지하철"
+    ],
+    "category": "transit",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.imagedrome.jihachul"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.malangstudio.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/subway_korea.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "papago",
+    "canonicalName": "Papago",
+    "localizedNames": {
+      "en": "Papago"
+    },
+    "aliases": [
+      "Papago",
+      "Naver Papago",
+      "파파고"
+    ],
+    "category": "learning",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.naver.labs.translator"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://papago.naver.com/",
+    "keywords": [
+      "study",
+      "learn",
+      "language",
+      "education",
+      "学习",
+      "语言",
+      "翻译",
+      "教育"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/papago.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "coupang",
+    "canonicalName": "Coupang",
+    "localizedNames": {
+      "en": "Coupang"
+    },
+    "aliases": [
+      "Coupang",
+      "쿠팡"
+    ],
+    "category": "shopping",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.coupang.mobile"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.coupang.com/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/coupang.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "coupang_eats",
+    "canonicalName": "Coupang Eats",
+    "localizedNames": {
+      "en": "Coupang Eats"
+    },
+    "aliases": [
+      "Coupang Eats",
+      "CoupangEats",
+      "쿠팡이츠"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.coupang.mobile.eats"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.coupangeats.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/coupang_eats.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "baemin",
+    "canonicalName": "Baemin",
+    "localizedNames": {
+      "en": "Baemin"
+    },
+    "aliases": [
+      "Baemin",
+      "Baedal Minjok",
+      "배달의민족"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.sampleapp"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.baemin.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/baemin.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "gmarket",
+    "canonicalName": "Gmarket",
+    "localizedNames": {
+      "en": "Gmarket"
+    },
+    "aliases": [
+      "Gmarket",
+      "G마켓"
+    ],
+    "category": "shopping",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.ebay.kr.gmarket"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.gmarket.co.kr/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/gmarket.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "toss",
+    "canonicalName": "Toss",
+    "localizedNames": {
+      "en": "Toss"
+    },
+    "aliases": [
+      "Toss",
+      "Viva Republica",
+      "토스"
+    ],
+    "category": "finance",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "viva.republica.toss"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://toss.im/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/toss.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "karrot",
+    "canonicalName": "Karrot",
+    "localizedNames": {
+      "en": "Karrot"
+    },
+    "aliases": [
+      "Karrot",
+      "Danggeun Market",
+      "당근마켓",
+      "당근"
+    ],
+    "category": "shopping",
+    "regions": [
+      "KR"
+    ],
+    "playStorePackageNames": {
+      "KR": "com.towneers.www"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.daangn.com/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/karrot.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "myrapid_pulse",
+    "canonicalName": "MyRapid PULSE",
+    "localizedNames": {
+      "en": "MyRapid PULSE"
+    },
+    "aliases": [
+      "MyRapid PULSE",
+      "MyRapid",
+      "Rapid KL"
+    ],
+    "category": "transit",
+    "regions": [
+      "MY"
+    ],
+    "playStorePackageNames": {
+      "MY": "com.prasarana.pulse.v4"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://myrapid.com.my/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/myrapid_pulse.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "touch_n_go",
+    "canonicalName": "Touch 'n Go eWallet",
+    "localizedNames": {
+      "en": "Touch 'n Go eWallet"
+    },
+    "aliases": [
+      "Touch 'n Go",
+      "Touch n Go",
+      "TnG eWallet",
+      "TNG"
+    ],
+    "category": "finance",
+    "regions": [
+      "MY"
+    ],
+    "playStorePackageNames": {
+      "MY": "my.com.tngdigital.ewallet"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.touchngo.com.my/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/touch_n_go.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mae_maybank",
+    "canonicalName": "MAE by Maybank2u",
+    "localizedNames": {
+      "en": "MAE by Maybank2u"
+    },
+    "aliases": [
+      "MAE by Maybank2u",
+      "Maybank2u",
+      "Maybank"
+    ],
+    "category": "finance",
+    "regions": [
+      "MY"
+    ],
+    "playStorePackageNames": {
+      "MY": "com.maybank2u.life"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.maybank2u.com.my/",
+    "keywords": [
+      "bank",
+      "payment",
+      "money",
+      "transfer",
+      "银行",
+      "支付",
+      "转账",
+      "理财"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mae_maybank.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "propertyguru_my",
+    "canonicalName": "PropertyGuru Malaysia",
+    "localizedNames": {
+      "en": "PropertyGuru Malaysia"
+    },
+    "aliases": [
+      "PropertyGuru Malaysia",
+      "PropertyGuru MY"
+    ],
+    "category": "life",
+    "regions": [
+      "MY"
+    ],
+    "playStorePackageNames": {
+      "MY": "com.allproperty.android.consumer.my"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.propertyguru.com.my/",
+    "keywords": [
+      "life",
+      "local",
+      "service",
+      "生活",
+      "本地",
+      "服务"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/propertyguru_my.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "airasia_move",
+    "canonicalName": "AirAsia MOVE",
+    "localizedNames": {
+      "en": "AirAsia MOVE",
+      "zh-Hans": "亚航"
+    },
+    "aliases": [
+      "AirAsia MOVE",
+      "AirAsia",
+      "airasia Superapp"
+    ],
+    "category": "transit",
+    "regions": [
+      "MY"
+    ],
+    "playStorePackageNames": {
+      "MY": "com.airasia.mobile"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.airasia.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/airasia_move.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "bonjour_ratp",
+    "canonicalName": "Bonjour RATP",
+    "localizedNames": {
+      "en": "Bonjour RATP"
+    },
+    "aliases": [
+      "Bonjour RATP",
+      "RATP"
+    ],
+    "category": "transit",
+    "regions": [
+      "FR"
+    ],
+    "playStorePackageNames": {
+      "FR": "com.fabernovel.ratp"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.ratp.fr/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/bonjour_ratp.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "idf_mobilites",
+    "canonicalName": "Île-de-France Mobilités",
+    "localizedNames": {
+      "en": "Île-de-France Mobilités"
+    },
+    "aliases": [
+      "Ile-de-France Mobilites",
+      "IDFM",
+      "Vianavigo"
+    ],
+    "category": "transit",
+    "regions": [
+      "FR"
+    ],
+    "playStorePackageNames": {
+      "FR": "com.applidium.vianavigo"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.iledefrance-mobilites.fr/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/idf_mobilites.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "sncf_connect",
+    "canonicalName": "SNCF Connect",
+    "localizedNames": {
+      "en": "SNCF Connect"
+    },
+    "aliases": [
+      "SNCF Connect",
+      "SNCF"
+    ],
+    "category": "transit",
+    "regions": [
+      "FR"
+    ],
+    "playStorePackageNames": {
+      "FR": "com.vsct.vsc.mobile.horaireetresa.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.sncf-connect.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/sncf_connect.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "carrefour",
+    "canonicalName": "Carrefour",
+    "localizedNames": {
+      "en": "Carrefour",
+      "zh-Hans": "家乐福"
+    },
+    "aliases": [
+      "Carrefour"
+    ],
+    "category": "shopping",
+    "regions": [
+      "FR"
+    ],
+    "playStorePackageNames": {
+      "FR": "com.carrefour.fid.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.carrefour.fr/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/carrefour.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "leboncoin",
+    "canonicalName": "leboncoin",
+    "localizedNames": {
+      "en": "leboncoin"
+    },
+    "aliases": [
+      "leboncoin",
+      "Le Bon Coin"
+    ],
+    "category": "shopping",
+    "regions": [
+      "FR"
+    ],
+    "playStorePackageNames": {
+      "FR": "fr.leboncoin"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.leboncoin.fr/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/leboncoin.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "doctolib",
+    "canonicalName": "Doctolib",
+    "localizedNames": {
+      "en": "Doctolib"
+    },
+    "aliases": [
+      "Doctolib"
+    ],
+    "category": "life",
+    "regions": [
+      "FR"
+    ],
+    "playStorePackageNames": {
+      "FR": "fr.doctolib.www"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.doctolib.fr/",
+    "keywords": [
+      "life",
+      "local",
+      "service",
+      "生活",
+      "本地",
+      "服务"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/doctolib.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "at_mobile",
+    "canonicalName": "AT Mobile",
+    "localizedNames": {
+      "en": "AT Mobile"
+    },
+    "aliases": [
+      "AT Mobile",
+      "Auckland Transport"
+    ],
+    "category": "transit",
+    "regions": [
+      "NZ"
+    ],
+    "playStorePackageNames": {
+      "NZ": "nz.govt.at.atmobile"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://at.govt.nz/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/at_mobile.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "delivereasy",
+    "canonicalName": "Delivereasy",
+    "localizedNames": {
+      "en": "Delivereasy"
+    },
+    "aliases": [
+      "Delivereasy"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "NZ"
+    ],
+    "playStorePackageNames": {
+      "NZ": "nz.co.delivereasy"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.delivereasy.co.nz/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/delivereasy.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "trademe",
+    "canonicalName": "Trade Me",
+    "localizedNames": {
+      "en": "Trade Me"
+    },
+    "aliases": [
+      "Trade Me",
+      "TradeMe"
+    ],
+    "category": "shopping",
+    "regions": [
+      "NZ"
+    ],
+    "playStorePackageNames": {
+      "NZ": "nz.co.trademe.trademe"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.trademe.co.nz/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/trademe.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "woolworths_nz",
+    "canonicalName": "Woolworths NZ",
+    "localizedNames": {
+      "en": "Woolworths NZ"
+    },
+    "aliases": [
+      "Woolworths NZ",
+      "Countdown"
+    ],
+    "category": "shopping",
+    "regions": [
+      "NZ"
+    ],
+    "playStorePackageNames": {
+      "NZ": "nz.co.countdown.android.pickup"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.woolworths.co.nz/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/woolworths_nz.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "new_world",
+    "canonicalName": "New World",
+    "localizedNames": {
+      "en": "New World"
+    },
+    "aliases": [
+      "New World",
+      "Foodstuffs"
+    ],
+    "category": "shopping",
+    "regions": [
+      "NZ"
+    ],
+    "playStorePackageNames": {
+      "NZ": "nz.co.newworld.clubcard"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.newworld.co.nz/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/new_world.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "the_warehouse",
+    "canonicalName": "The Warehouse",
+    "localizedNames": {
+      "en": "The Warehouse"
+    },
+    "aliases": [
+      "The Warehouse"
+    ],
+    "category": "shopping",
+    "regions": [
+      "NZ"
+    ],
+    "playStorePackageNames": {
+      "NZ": "nz.co.thewarehouse.wow"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.thewarehouse.co.nz/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/the_warehouse.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "studentcard_nz",
+    "canonicalName": "StudentCard",
+    "localizedNames": {
+      "en": "StudentCard"
+    },
+    "aliases": [
+      "StudentCard",
+      "StudentCard NZ"
+    ],
+    "category": "life",
+    "regions": [
+      "NZ"
+    ],
+    "playStorePackageNames": {
+      "NZ": "com.codemonkeyz.studentcard"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://studentcard.co.nz/",
+    "keywords": [
+      "life",
+      "local",
+      "service",
+      "生活",
+      "本地",
+      "服务"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/studentcard_nz.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mvv_app",
+    "canonicalName": "MVV-App",
+    "localizedNames": {
+      "en": "MVV-App"
+    },
+    "aliases": [
+      "MVV-App",
+      "MVV",
+      "Muenchner Verkehrsverbund"
+    ],
+    "category": "transit",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "com.mdv.companion"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.mvv-muenchen.de/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mvv_app.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "mvgo",
+    "canonicalName": "MVGO",
+    "localizedNames": {
+      "en": "MVGO"
+    },
+    "aliases": [
+      "MVGO",
+      "MVG Muenchen"
+    ],
+    "category": "transit",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "de.mvg.more"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.mvg.de/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/mvgo.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "db_navigator",
+    "canonicalName": "DB Navigator",
+    "localizedNames": {
+      "en": "DB Navigator"
+    },
+    "aliases": [
+      "DB Navigator",
+      "Deutsche Bahn"
+    ],
+    "category": "transit",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "de.hafas.android.db"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.bahn.de/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/db_navigator.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "free_now",
+    "canonicalName": "FREE NOW",
+    "localizedNames": {
+      "en": "FREE NOW"
+    },
+    "aliases": [
+      "FREE NOW",
+      "FREENOW",
+      "mytaxi"
+    ],
+    "category": "transit",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "taxi.android.client"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.free-now.com/",
+    "keywords": [
+      "map",
+      "navigation",
+      "directions",
+      "transit",
+      "导航",
+      "地图",
+      "出行",
+      "路线"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/free_now.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "lieferando",
+    "canonicalName": "Lieferando",
+    "localizedNames": {
+      "en": "Lieferando"
+    },
+    "aliases": [
+      "Lieferando"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "com.yopeso.lieferando"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.lieferando.de/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/lieferando.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "rewe",
+    "canonicalName": "REWE",
+    "localizedNames": {
+      "en": "REWE"
+    },
+    "aliases": [
+      "REWE",
+      "Rewe Supermarkt"
+    ],
+    "category": "shopping",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "de.rewe.app.mobile"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.rewe.de/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/rewe.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "lidl_plus",
+    "canonicalName": "Lidl Plus",
+    "localizedNames": {
+      "en": "Lidl Plus"
+    },
+    "aliases": [
+      "Lidl Plus",
+      "Lidl"
+    ],
+    "category": "shopping",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "com.lidl.eci.lidlplus"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.lidl.de/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/lidl_plus.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "kleinanzeigen",
+    "canonicalName": "Kleinanzeigen",
+    "localizedNames": {
+      "en": "Kleinanzeigen"
+    },
+    "aliases": [
+      "Kleinanzeigen",
+      "eBay Kleinanzeigen"
+    ],
+    "category": "shopping",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "com.ebay.kleinanzeigen"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://www.kleinanzeigen.de/",
+    "keywords": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "购物",
+      "买东西",
+      "商店",
+      "网购"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/kleinanzeigen.png",
+    "availableOnPlay": true
+  },
+  {
+    "id": "wolt",
+    "canonicalName": "Wolt",
+    "localizedNames": {
+      "en": "Wolt"
+    },
+    "aliases": [
+      "Wolt"
+    ],
+    "category": "food_drink",
+    "regions": [
+      "DE"
+    ],
+    "playStorePackageNames": {
+      "DE": "com.wolt.android"
+    },
+    "schemes": [],
+    "universalLinks": [],
+    "webURL": "https://wolt.com/",
+    "keywords": [
+      "food",
+      "delivery",
+      "restaurant",
+      "takeaway",
+      "外卖",
+      "餐厅",
+      "订餐",
+      "美食"
+    ],
+    "launchStatus": "tryOpen",
+    "iconURL": "https://lyixin466.github.io/appwebcity-assets/icons/wolt.png",
+    "availableOnPlay": true
   }
 ]
